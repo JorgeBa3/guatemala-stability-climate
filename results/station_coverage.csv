@@ -1,0 +1,14 @@
+station_id,name,elevation_m,observed_hours,pct_of_all_hours,pct_of_night_hours,all_month_hour_cells_filled
+78641,Guatemala La Aurora,1489,95219,98.7,98.7,True
+78640,Guatemala Observatorio Nacional,1502,0,0.0,0.0,False
+MGQZ0,Quetzaltenango,2500,48287,50.1,0.0,False
+78627,Huehuetenango,1901,80960,84.0,68.4,True
+78631,Coban,1316,49560,51.4,2.0,False
+78644,Zacapa,490,48671,50.5,0.2,False
+78639,Retalhuleu,239,51184,53.1,2.0,False
+MGCP0,Champerico,8,183,0.2,0.0,False
+78647,San Jose,2,44273,45.9,16.7,False
+78637,Puerto Barrios,1,86440,89.6,81.3,True
+78615,Flores,115,1827,1.9,0.0,False
+MGMM0,Mundo Maya (Flores),122,90355,93.7,89.1,True
+MGPC0,Paso Caballos,50,0,0.0,0.0,False

@@ -1,0 +1,24 @@
+# raw climate files are retrieved by analysis/download_climate.py
+data/
+
+# material that is not part of this paper
+_archivo_datos_simulados/
+references/
+analysis/stability_pipeline.py
+analysis/test_pipeline.py
+
+# Python
+__pycache__/
+*.pyc
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# the manuscript itself is not distributed here
+paper/*.tex
+paper/paper2_stability.pdf

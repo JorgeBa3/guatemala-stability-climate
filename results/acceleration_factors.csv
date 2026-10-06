@@ -1,0 +1,1783 @@
+station,method,Ea_kJ_mol,B_per_pctRH,reference,AF,AF_lo,AF_hi
+Guatemala La Aurora,station observations,60.0,0.0,25C/60%RH,0.6755,0.6652,0.687
+Guatemala La Aurora,station observations,60.0,0.0,30C/65%RH,0.4532,0.4462,0.4609
+Guatemala La Aurora,station observations,60.0,0.0,30C/75%RH,0.4532,0.4462,0.4609
+Guatemala La Aurora,station observations,60.0,0.02,25C/60%RH,0.9266,0.9109,0.945
+Guatemala La Aurora,station observations,60.0,0.02,30C/65%RH,0.5625,0.5529,0.5736
+Guatemala La Aurora,station observations,60.0,0.02,30C/75%RH,0.4605,0.4527,0.4696
+Guatemala La Aurora,station observations,60.0,0.04,25C/60%RH,1.4007,1.3681,1.4318
+Guatemala La Aurora,station observations,60.0,0.04,30C/65%RH,0.7693,0.7514,0.7864
+Guatemala La Aurora,station observations,60.0,0.04,30C/75%RH,0.5157,0.5037,0.5272
+Guatemala La Aurora,station observations,60.0,0.06,25C/60%RH,2.2822,2.2187,2.3483
+Guatemala La Aurora,station observations,60.0,0.06,30C/65%RH,1.1342,1.1026,1.167
+Guatemala La Aurora,station observations,60.0,0.06,30C/75%RH,0.6225,0.6051,0.6405
+Guatemala La Aurora,station observations,60.0,0.08,25C/60%RH,3.9274,3.7911,4.0557
+Guatemala La Aurora,station observations,60.0,0.08,30C/65%RH,1.7661,1.7048,1.8238
+Guatemala La Aurora,station observations,60.0,0.08,30C/75%RH,0.7936,0.766,0.8195
+Guatemala La Aurora,station observations,60.0,0.1,25C/60%RH,7.029,6.7395,7.3032
+Guatemala La Aurora,station observations,60.0,0.1,30C/65%RH,2.8601,2.7422,2.9716
+Guatemala La Aurora,station observations,60.0,0.1,30C/75%RH,1.0522,1.0088,1.0932
+Guatemala La Aurora,station observations,70.0,0.0,25C/60%RH,0.6382,0.626,0.6516
+Guatemala La Aurora,station observations,70.0,0.0,30C/65%RH,0.4006,0.3929,0.409
+Guatemala La Aurora,station observations,70.0,0.0,30C/75%RH,0.4006,0.3929,0.409
+Guatemala La Aurora,station observations,70.0,0.02,25C/60%RH,0.8642,0.8481,0.8842
+Guatemala La Aurora,station observations,70.0,0.02,30C/65%RH,0.4908,0.4817,0.5022
+Guatemala La Aurora,station observations,70.0,0.02,30C/75%RH,0.4018,0.3943,0.4112
+Guatemala La Aurora,station observations,70.0,0.04,25C/60%RH,1.2929,1.2621,1.3277
+Guatemala La Aurora,station observations,70.0,0.04,30C/65%RH,0.6644,0.6486,0.6823
+Guatemala La Aurora,station observations,70.0,0.04,30C/75%RH,0.4454,0.4348,0.4573
+Guatemala La Aurora,station observations,70.0,0.06,25C/60%RH,2.091,2.0284,2.1542
+Guatemala La Aurora,station observations,70.0,0.06,30C/65%RH,0.9723,0.9432,1.0017
+Guatemala La Aurora,station observations,70.0,0.06,30C/75%RH,0.5336,0.5176,0.5497
+Guatemala La Aurora,station observations,70.0,0.08,25C/60%RH,3.5804,3.451,3.7078
+Guatemala La Aurora,station observations,70.0,0.08,30C/65%RH,1.5064,1.452,1.56
+Guatemala La Aurora,station observations,70.0,0.08,30C/75%RH,0.6769,0.6524,0.701
+Guatemala La Aurora,station observations,70.0,0.1,25C/60%RH,6.3862,6.1222,6.6391
+Guatemala La Aurora,station observations,70.0,0.1,30C/65%RH,2.4313,2.3307,2.5275
+Guatemala La Aurora,station observations,70.0,0.1,30C/75%RH,0.8944,0.8574,0.9298
+Guatemala La Aurora,station observations,80.0,0.0,25C/60%RH,0.6045,0.5907,0.6185
+Guatemala La Aurora,station observations,80.0,0.0,30C/65%RH,0.355,0.3469,0.3632
+Guatemala La Aurora,station observations,80.0,0.0,30C/75%RH,0.355,0.3469,0.3632
+Guatemala La Aurora,station observations,80.0,0.02,25C/60%RH,0.8077,0.79,0.827
+Guatemala La Aurora,station observations,80.0,0.02,30C/65%RH,0.4292,0.4198,0.4395
+Guatemala La Aurora,station observations,80.0,0.02,30C/75%RH,0.3514,0.3437,0.3598
+Guatemala La Aurora,station observations,80.0,0.04,25C/60%RH,1.1956,1.1653,1.2294
+Guatemala La Aurora,station observations,80.0,0.04,30C/65%RH,0.5749,0.5603,0.5911
+Guatemala La Aurora,station observations,80.0,0.04,30C/75%RH,0.3853,0.3756,0.3962
+Guatemala La Aurora,station observations,80.0,0.06,25C/60%RH,1.9186,1.8596,1.9817
+Guatemala La Aurora,station observations,80.0,0.06,30C/65%RH,0.8347,0.809,0.8621
+Guatemala La Aurora,station observations,80.0,0.06,30C/75%RH,0.4581,0.444,0.4732
+Guatemala La Aurora,station observations,80.0,0.08,25C/60%RH,3.2676,3.1503,3.3886
+Guatemala La Aurora,station observations,80.0,0.08,30C/65%RH,1.2863,1.2402,1.334
+Guatemala La Aurora,station observations,80.0,0.08,30C/75%RH,0.578,0.5572,0.5994
+Guatemala La Aurora,station observations,80.0,0.1,25C/60%RH,5.8074,5.559,6.0506
+Guatemala La Aurora,station observations,80.0,0.1,30C/65%RH,2.0686,1.9801,2.1552
+Guatemala La Aurora,station observations,80.0,0.1,30C/75%RH,0.761,0.7284,0.7929
+Guatemala La Aurora,station observations,83.144,0.0,25C/60%RH,0.5945,0.5821,0.6102
+Guatemala La Aurora,station observations,83.144,0.0,30C/65%RH,0.3419,0.3348,0.3509
+Guatemala La Aurora,station observations,83.144,0.0,30C/75%RH,0.3419,0.3348,0.3509
+Guatemala La Aurora,station observations,83.144,0.02,25C/60%RH,0.7911,0.7727,0.8094
+Guatemala La Aurora,station observations,83.144,0.02,30C/65%RH,0.4117,0.4021,0.4212
+Guatemala La Aurora,station observations,83.144,0.02,30C/75%RH,0.337,0.3292,0.3449
+Guatemala La Aurora,station observations,83.144,0.04,25C/60%RH,1.1669,1.1371,1.2015
+Guatemala La Aurora,station observations,83.144,0.04,30C/65%RH,0.5495,0.5354,0.5657
+Guatemala La Aurora,station observations,83.144,0.04,30C/75%RH,0.3683,0.3589,0.3792
+Guatemala La Aurora,station observations,83.144,0.06,25C/60%RH,1.8679,1.8062,1.9289
+Guatemala La Aurora,station observations,83.144,0.06,30C/65%RH,0.7958,0.7695,0.8218
+Guatemala La Aurora,station observations,83.144,0.06,30C/75%RH,0.4368,0.4223,0.451
+Guatemala La Aurora,station observations,83.144,0.08,25C/60%RH,3.1757,3.0561,3.3029
+Guatemala La Aurora,station observations,83.144,0.08,30C/65%RH,1.2243,1.1781,1.2733
+Guatemala La Aurora,station observations,83.144,0.08,30C/75%RH,0.5501,0.5294,0.5721
+Guatemala La Aurora,station observations,83.144,0.1,25C/60%RH,5.6375,5.4009,5.8843
+Guatemala La Aurora,station observations,83.144,0.1,30C/65%RH,1.9665,1.884,2.0526
+Guatemala La Aurora,station observations,83.144,0.1,30C/75%RH,0.7234,0.6931,0.7551
+Guatemala La Aurora,station observations,90.0,0.0,25C/60%RH,0.5739,0.5613,0.5884
+Guatemala La Aurora,station observations,90.0,0.0,30C/65%RH,0.3153,0.3084,0.3233
+Guatemala La Aurora,station observations,90.0,0.0,30C/75%RH,0.3153,0.3084,0.3233
+Guatemala La Aurora,station observations,90.0,0.02,25C/60%RH,0.7566,0.7379,0.7767
+Guatemala La Aurora,station observations,90.0,0.02,30C/65%RH,0.3762,0.3669,0.3862
+Guatemala La Aurora,station observations,90.0,0.02,30C/75%RH,0.308,0.3004,0.3162
+Guatemala La Aurora,station observations,90.0,0.04,25C/60%RH,1.1076,1.0767,1.1403
+Guatemala La Aurora,station observations,90.0,0.04,30C/65%RH,0.4983,0.4844,0.513
+Guatemala La Aurora,station observations,90.0,0.04,30C/75%RH,0.334,0.3247,0.3439
+Guatemala La Aurora,station observations,90.0,0.06,25C/60%RH,1.7628,1.7062,1.8243
+Guatemala La Aurora,station observations,90.0,0.06,30C/65%RH,0.7176,0.6945,0.7426
+Guatemala La Aurora,station observations,90.0,0.06,30C/75%RH,0.3938,0.3812,0.4075
+Guatemala La Aurora,station observations,90.0,0.08,25C/60%RH,2.9854,2.8694,3.0962
+Guatemala La Aurora,station observations,90.0,0.08,30C/65%RH,1.0996,1.0569,1.1404
+Guatemala La Aurora,station observations,90.0,0.08,30C/75%RH,0.4941,0.4749,0.5124
+Guatemala La Aurora,station observations,90.0,0.1,25C/60%RH,5.2857,5.063,5.5131
+Guatemala La Aurora,station observations,90.0,0.1,30C/65%RH,1.7615,1.6874,1.8373
+Guatemala La Aurora,station observations,90.0,0.1,30C/75%RH,0.648,0.6207,0.6759
+Guatemala La Aurora,station observations,100.0,0.0,25C/60%RH,0.5463,0.5311,0.564
+Guatemala La Aurora,station observations,100.0,0.0,30C/65%RH,0.2808,0.273,0.2899
+Guatemala La Aurora,station observations,100.0,0.0,30C/75%RH,0.2808,0.273,0.2899
+Guatemala La Aurora,station observations,100.0,0.02,25C/60%RH,0.7103,0.6905,0.7311
+Guatemala La Aurora,station observations,100.0,0.02,30C/65%RH,0.3304,0.3212,0.3401
+Guatemala La Aurora,station observations,100.0,0.02,30C/75%RH,0.2705,0.263,0.2785
+Guatemala La Aurora,station observations,100.0,0.04,25C/60%RH,1.0279,0.9951,1.0608
+Guatemala La Aurora,station observations,100.0,0.04,30C/65%RH,0.4327,0.4188,0.4465
+Guatemala La Aurora,station observations,100.0,0.04,30C/75%RH,0.29,0.2808,0.2993
+Guatemala La Aurora,station observations,100.0,0.06,25C/60%RH,1.6221,1.5643,1.6804
+Guatemala La Aurora,station observations,100.0,0.06,30C/65%RH,0.6178,0.5958,0.64
+Guatemala La Aurora,station observations,100.0,0.06,30C/75%RH,0.3391,0.327,0.3512
+Guatemala La Aurora,station observations,100.0,0.08,25C/60%RH,2.7307,2.6278,2.8493
+Guatemala La Aurora,station observations,100.0,0.08,30C/65%RH,0.941,0.9056,0.9819
+Guatemala La Aurora,station observations,100.0,0.08,30C/75%RH,0.4228,0.4069,0.4412
+Guatemala La Aurora,station observations,100.0,0.1,25C/60%RH,4.8152,4.6065,5.0343
+Guatemala La Aurora,station observations,100.0,0.1,30C/65%RH,1.5015,1.4364,1.5698
+Guatemala La Aurora,station observations,100.0,0.1,30C/75%RH,0.5524,0.5284,0.5775
+Guatemala La Aurora,station observations,110.0,0.0,25C/60%RH,0.5212,0.506,0.5392
+Guatemala La Aurora,station observations,110.0,0.0,30C/65%RH,0.2507,0.2434,0.2593
+Guatemala La Aurora,station observations,110.0,0.0,30C/75%RH,0.2507,0.2434,0.2593
+Guatemala La Aurora,station observations,110.0,0.02,25C/60%RH,0.6684,0.6493,0.6907
+Guatemala La Aurora,station observations,110.0,0.02,30C/65%RH,0.2909,0.2826,0.3006
+Guatemala La Aurora,station observations,110.0,0.02,30C/75%RH,0.2382,0.2314,0.2461
+Guatemala La Aurora,station observations,110.0,0.04,25C/60%RH,0.9559,0.9247,0.9877
+Guatemala La Aurora,station observations,110.0,0.04,30C/65%RH,0.3764,0.3641,0.389
+Guatemala La Aurora,station observations,110.0,0.04,30C/75%RH,0.2523,0.2441,0.2607
+Guatemala La Aurora,station observations,110.0,0.06,25C/60%RH,1.4949,1.4397,1.5542
+Guatemala La Aurora,station observations,110.0,0.06,30C/65%RH,0.5327,0.513,0.5538
+Guatemala La Aurora,station observations,110.0,0.06,30C/75%RH,0.2923,0.2815,0.3039
+Guatemala La Aurora,station observations,110.0,0.08,25C/60%RH,2.5006,2.4019,2.6058
+Guatemala La Aurora,station observations,110.0,0.08,30C/65%RH,0.8063,0.7744,0.8402
+Guatemala La Aurora,station observations,110.0,0.08,30C/75%RH,0.3623,0.348,0.3775
+Guatemala La Aurora,station observations,110.0,0.1,25C/60%RH,4.3907,4.1805,4.6138
+Guatemala La Aurora,station observations,110.0,0.1,30C/65%RH,1.281,1.2196,1.3461
+Guatemala La Aurora,station observations,110.0,0.1,30C/75%RH,0.4712,0.4487,0.4952
+Guatemala La Aurora,station observations,120.0,0.0,25C/60%RH,0.4986,0.4823,0.5179
+Guatemala La Aurora,station observations,120.0,0.0,30C/65%RH,0.2244,0.217,0.2331
+Guatemala La Aurora,station observations,120.0,0.0,30C/75%RH,0.2244,0.217,0.2331
+Guatemala La Aurora,station observations,120.0,0.02,25C/60%RH,0.6304,0.6098,0.6554
+Guatemala La Aurora,station observations,120.0,0.02,30C/65%RH,0.2567,0.2483,0.2669
+Guatemala La Aurora,station observations,120.0,0.02,30C/75%RH,0.2102,0.2033,0.2185
+Guatemala La Aurora,station observations,120.0,0.04,25C/60%RH,0.8906,0.8604,0.926
+Guatemala La Aurora,station observations,120.0,0.04,30C/65%RH,0.3281,0.317,0.3412
+Guatemala La Aurora,station observations,120.0,0.04,30C/75%RH,0.22,0.2125,0.2287
+Guatemala La Aurora,station observations,120.0,0.06,25C/60%RH,1.3797,1.3263,1.4396
+Guatemala La Aurora,station observations,120.0,0.06,30C/65%RH,0.46,0.4422,0.48
+Guatemala La Aurora,station observations,120.0,0.06,30C/75%RH,0.2525,0.2427,0.2634
+Guatemala La Aurora,station observations,120.0,0.08,25C/60%RH,2.2927,2.1967,2.3924
+Guatemala La Aurora,station observations,120.0,0.08,30C/65%RH,0.6916,0.6627,0.7217
+Guatemala La Aurora,station observations,120.0,0.08,30C/75%RH,0.3108,0.2978,0.3243
+Guatemala La Aurora,station observations,120.0,0.1,25C/60%RH,4.0074,3.8242,4.1916
+Guatemala La Aurora,station observations,120.0,0.1,30C/65%RH,1.0939,1.0439,1.1442
+Guatemala La Aurora,station observations,120.0,0.1,30C/75%RH,0.4024,0.384,0.4209
+Guatemala La Aurora,station observations,130.0,0.0,25C/60%RH,0.4781,0.4613,0.4979
+Guatemala La Aurora,station observations,130.0,0.0,30C/65%RH,0.2013,0.1942,0.2096
+Guatemala La Aurora,station observations,130.0,0.0,30C/75%RH,0.2013,0.1942,0.2096
+Guatemala La Aurora,station observations,130.0,0.02,25C/60%RH,0.5959,0.576,0.6206
+Guatemala La Aurora,station observations,130.0,0.02,30C/65%RH,0.2271,0.2195,0.2364
+Guatemala La Aurora,station observations,130.0,0.02,30C/75%RH,0.1859,0.1797,0.1936
+Guatemala La Aurora,station observations,130.0,0.04,25C/60%RH,0.8314,0.7998,0.8649
+Guatemala La Aurora,station observations,130.0,0.04,30C/65%RH,0.2866,0.2757,0.2982
+Guatemala La Aurora,station observations,130.0,0.04,30C/75%RH,0.1921,0.1848,0.1999
+Guatemala La Aurora,station observations,130.0,0.06,25C/60%RH,1.2755,1.2236,1.3335
+Guatemala La Aurora,station observations,130.0,0.06,30C/65%RH,0.3979,0.3817,0.416
+Guatemala La Aurora,station observations,130.0,0.06,30C/75%RH,0.2184,0.2095,0.2283
+Guatemala La Aurora,station observations,130.0,0.08,25C/60%RH,2.1046,2.0083,2.2001
+Guatemala La Aurora,station observations,130.0,0.08,30C/65%RH,0.594,0.5669,0.621
+Guatemala La Aurora,station observations,130.0,0.08,30C/75%RH,0.2669,0.2547,0.279
+Guatemala La Aurora,station observations,130.0,0.1,25C/60%RH,3.6611,3.4819,3.8403
+Guatemala La Aurora,station observations,130.0,0.1,30C/65%RH,0.935,0.8893,0.9808
+Guatemala La Aurora,station observations,130.0,0.1,30C/75%RH,0.344,0.3271,0.3608
+Guatemala La Aurora,station observations,140.0,0.0,25C/60%RH,0.4596,0.4406,0.4808
+Guatemala La Aurora,station observations,140.0,0.0,30C/65%RH,0.1811,0.1736,0.1894
+Guatemala La Aurora,station observations,140.0,0.0,30C/75%RH,0.1811,0.1736,0.1894
+Guatemala La Aurora,station observations,140.0,0.02,25C/60%RH,0.5647,0.5433,0.5879
+Guatemala La Aurora,station observations,140.0,0.02,30C/65%RH,0.2013,0.1937,0.2096
+Guatemala La Aurora,station observations,140.0,0.02,30C/75%RH,0.1648,0.1586,0.1716
+Guatemala La Aurora,station observations,140.0,0.04,25C/60%RH,0.7777,0.7472,0.8113
+Guatemala La Aurora,station observations,140.0,0.04,30C/65%RH,0.2509,0.241,0.2617
+Guatemala La Aurora,station observations,140.0,0.04,30C/75%RH,0.1682,0.1616,0.1754
+Guatemala La Aurora,station observations,140.0,0.06,25C/60%RH,1.181,1.1312,1.2354
+Guatemala La Aurora,station observations,140.0,0.06,30C/65%RH,0.3447,0.3302,0.3606
+Guatemala La Aurora,station observations,140.0,0.06,30C/75%RH,0.1892,0.1812,0.1979
+Guatemala La Aurora,station observations,140.0,0.08,25C/60%RH,1.9344,1.8463,2.0258
+Guatemala La Aurora,station observations,140.0,0.08,30C/65%RH,0.5109,0.4876,0.535
+Guatemala La Aurora,station observations,140.0,0.08,30C/75%RH,0.2295,0.2191,0.2404
+Guatemala La Aurora,station observations,140.0,0.1,25C/60%RH,3.3481,3.168,3.5157
+Guatemala La Aurora,station observations,140.0,0.1,30C/65%RH,0.8,0.757,0.8401
+Guatemala La Aurora,station observations,140.0,0.1,30C/75%RH,0.2943,0.2785,0.3091
+Guatemala La Aurora,station observations,150.0,0.0,25C/60%RH,0.4428,0.4234,0.464
+Guatemala La Aurora,station observations,150.0,0.0,30C/65%RH,0.1632,0.1561,0.171
+Guatemala La Aurora,station observations,150.0,0.0,30C/75%RH,0.1632,0.1561,0.171
+Guatemala La Aurora,station observations,150.0,0.02,25C/60%RH,0.5364,0.5157,0.5631
+Guatemala La Aurora,station observations,150.0,0.02,30C/65%RH,0.1789,0.172,0.1878
+Guatemala La Aurora,station observations,150.0,0.02,30C/75%RH,0.1465,0.1408,0.1538
+Guatemala La Aurora,station observations,150.0,0.04,25C/60%RH,0.729,0.6969,0.7626
+Guatemala La Aurora,station observations,150.0,0.04,30C/65%RH,0.22,0.2103,0.2302
+Guatemala La Aurora,station observations,150.0,0.04,30C/75%RH,0.1475,0.141,0.1543
+Guatemala La Aurora,station observations,150.0,0.06,25C/60%RH,1.0954,1.0476,1.1472
+Guatemala La Aurora,station observations,150.0,0.06,30C/65%RH,0.2991,0.2861,0.3133
+Guatemala La Aurora,station observations,150.0,0.06,30C/75%RH,0.1642,0.157,0.1719
+Guatemala La Aurora,station observations,150.0,0.08,25C/60%RH,1.7803,1.6974,1.8734
+Guatemala La Aurora,station observations,150.0,0.08,30C/65%RH,0.4399,0.4194,0.4629
+Guatemala La Aurora,station observations,150.0,0.08,30C/75%RH,0.1977,0.1885,0.208
+Guatemala La Aurora,station observations,150.0,0.1,25C/60%RH,3.0649,2.9045,3.2396
+Guatemala La Aurora,station observations,150.0,0.1,30C/65%RH,0.6852,0.6494,0.7243
+Guatemala La Aurora,station observations,150.0,0.1,30C/75%RH,0.2521,0.2389,0.2665
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.0,25C/60%RH,0.4497,0.4415,0.4589
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.0,30C/65%RH,0.3017,0.2962,0.3079
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.0,30C/75%RH,0.3017,0.2962,0.3079
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.02,25C/60%RH,0.6298,0.6218,0.6373
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.02,30C/65%RH,0.3823,0.3774,0.3869
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.02,30C/75%RH,0.313,0.309,0.3167
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.04,25C/60%RH,1.0004,0.9888,1.0107
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.04,30C/65%RH,0.5495,0.5431,0.5551
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.04,30C/75%RH,0.3683,0.364,0.3721
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.06,25C/60%RH,1.7331,1.7106,1.7545
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.06,30C/65%RH,0.8613,0.8501,0.872
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.06,30C/75%RH,0.4727,0.4666,0.4785
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.08,25C/60%RH,3.1745,3.1255,3.2261
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.08,30C/65%RH,1.4275,1.4055,1.4508
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.08,30C/75%RH,0.6414,0.6315,0.6519
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.1,25C/60%RH,6.0259,5.9244,6.1481
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.1,30C/65%RH,2.4519,2.4106,2.5016
+Quetzaltenango,observations + adjusted reanalysis at night,60.0,0.1,30C/75%RH,0.902,0.8868,0.9203
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.0,25C/60%RH,0.3997,0.3904,0.4103
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.0,30C/65%RH,0.2509,0.245,0.2575
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.0,30C/75%RH,0.2509,0.245,0.2575
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.02,25C/60%RH,0.5481,0.5394,0.5564
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.02,30C/65%RH,0.3113,0.3064,0.316
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.02,30C/75%RH,0.2548,0.2508,0.2587
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.04,25C/60%RH,0.8568,0.8453,0.8669
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.04,30C/65%RH,0.4403,0.4344,0.4455
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.04,30C/75%RH,0.2951,0.2912,0.2986
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.06,25C/60%RH,1.4684,1.4498,1.4874
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.06,30C/65%RH,0.6828,0.6741,0.6916
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.06,30C/75%RH,0.3747,0.37,0.3796
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.08,25C/60%RH,2.671,2.6282,2.7131
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.08,30C/65%RH,1.1238,1.1058,1.1415
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.08,30C/75%RH,0.505,0.4969,0.5129
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.1,25C/60%RH,5.0472,4.9503,5.1465
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.1,30C/65%RH,1.9215,1.8846,1.9593
+Quetzaltenango,observations + adjusted reanalysis at night,70.0,0.1,30C/75%RH,0.7069,0.6933,0.7208
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.0,25C/60%RH,0.3568,0.3483,0.3674
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.0,30C/65%RH,0.2095,0.2045,0.2158
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.0,30C/75%RH,0.2095,0.2045,0.2158
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.02,25C/60%RH,0.4788,0.4704,0.4875
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.02,30C/65%RH,0.2544,0.2499,0.259
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.02,30C/75%RH,0.2083,0.2046,0.2121
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.04,25C/60%RH,0.7361,0.7253,0.7466
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.04,30C/65%RH,0.3539,0.3487,0.359
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.04,30C/75%RH,0.2373,0.2338,0.2406
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.06,25C/60%RH,1.2473,1.2284,1.2644
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.06,30C/65%RH,0.5426,0.5344,0.5501
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.06,30C/75%RH,0.2978,0.2933,0.3019
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.08,25C/60%RH,2.2522,2.2134,2.2856
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.08,30C/65%RH,0.8866,0.8713,0.8997
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.08,30C/75%RH,0.3984,0.3915,0.4043
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.1,25C/60%RH,4.2353,4.1513,4.3165
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.1,30C/65%RH,1.5086,1.4787,1.5375
+Quetzaltenango,observations + adjusted reanalysis at night,80.0,0.1,30C/75%RH,0.555,0.544,0.5656
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.0,25C/60%RH,0.3446,0.336,0.3552
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.0,30C/65%RH,0.1982,0.1933,0.2043
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.0,30C/75%RH,0.1982,0.1933,0.2043
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.02,25C/60%RH,0.4593,0.4507,0.468
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.02,30C/65%RH,0.239,0.2346,0.2436
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.02,30C/75%RH,0.1957,0.192,0.1994
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.04,25C/60%RH,0.7023,0.6907,0.7123
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.04,30C/65%RH,0.3307,0.3252,0.3354
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.04,30C/75%RH,0.2217,0.218,0.2248
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.06,25C/60%RH,1.1855,1.1667,1.203
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.06,30C/65%RH,0.5051,0.4971,0.5126
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.06,30C/75%RH,0.2772,0.2728,0.2813
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.08,25C/60%RH,2.1355,2.0996,2.1703
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.08,30C/65%RH,0.8233,0.8094,0.8367
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.08,30C/75%RH,0.3699,0.3637,0.3759
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.1,25C/60%RH,4.0097,3.9356,4.0854
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.1,30C/65%RH,1.3987,1.3728,1.4251
+Quetzaltenango,observations + adjusted reanalysis at night,83.144,0.1,30C/75%RH,0.5145,0.505,0.5243
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.0,25C/60%RH,0.3198,0.3107,0.3299
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.0,30C/65%RH,0.1757,0.1707,0.1813
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.0,30C/75%RH,0.1757,0.1707,0.1813
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.02,25C/60%RH,0.4199,0.411,0.4286
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.02,30C/65%RH,0.2088,0.2043,0.2131
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.02,30C/75%RH,0.1709,0.1673,0.1745
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.04,25C/60%RH,0.6345,0.6227,0.6457
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.04,30C/65%RH,0.2855,0.2801,0.2905
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.04,30C/75%RH,0.1913,0.1878,0.1947
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.06,25C/60%RH,1.0622,1.0437,1.0781
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.06,30C/65%RH,0.4324,0.4248,0.4389
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.06,30C/75%RH,0.2373,0.2332,0.2408
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.08,25C/60%RH,1.903,1.87,1.9341
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.08,30C/65%RH,0.7009,0.6888,0.7124
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.08,30C/75%RH,0.3149,0.3095,0.3201
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.1,25C/60%RH,3.5606,3.4922,3.6278
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.1,30C/65%RH,1.1866,1.1638,1.209
+Quetzaltenango,observations + adjusted reanalysis at night,90.0,0.1,30C/75%RH,0.4365,0.4281,0.4448
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.0,25C/60%RH,0.2879,0.2778,0.2976
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.0,30C/65%RH,0.148,0.1428,0.153
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.0,30C/75%RH,0.148,0.1428,0.153
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.02,25C/60%RH,0.3698,0.3613,0.3784
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.02,30C/65%RH,0.172,0.1681,0.176
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.02,30C/75%RH,0.1408,0.1376,0.1441
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.04,25C/60%RH,0.5487,0.5382,0.5591
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.04,30C/65%RH,0.231,0.2265,0.2353
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.04,30C/75%RH,0.1548,0.1519,0.1577
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.06,25C/60%RH,0.907,0.8905,0.9224
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.06,30C/65%RH,0.3454,0.3392,0.3513
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.06,30C/75%RH,0.1896,0.1861,0.1928
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.08,25C/60%RH,1.6114,1.5828,1.639
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.08,30C/65%RH,0.5553,0.5454,0.5648
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.08,30C/75%RH,0.2495,0.2451,0.2538
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.1,25C/60%RH,2.9988,2.9451,3.0554
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.1,30C/65%RH,0.9351,0.9183,0.9527
+Quetzaltenango,observations + adjusted reanalysis at night,100.0,0.1,30C/75%RH,0.344,0.3378,0.3505
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.0,25C/60%RH,0.2602,0.2509,0.2718
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.0,30C/65%RH,0.1252,0.1207,0.1308
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.0,30C/75%RH,0.1252,0.1207,0.1308
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.02,25C/60%RH,0.3268,0.3178,0.3358
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.02,30C/65%RH,0.1423,0.1383,0.1461
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.02,30C/75%RH,0.1165,0.1133,0.1197
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.04,25C/60%RH,0.4761,0.465,0.4871
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.04,30C/65%RH,0.1875,0.1831,0.1918
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.04,30C/75%RH,0.1257,0.1228,0.1286
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.06,25C/60%RH,0.7765,0.7623,0.7905
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.06,30C/65%RH,0.2767,0.2716,0.2817
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.06,30C/75%RH,0.1519,0.1491,0.1546
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.08,25C/60%RH,1.3674,1.34,1.3921
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.08,30C/65%RH,0.4409,0.432,0.4488
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.08,30C/75%RH,0.1981,0.1941,0.2017
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.1,25C/60%RH,2.5302,2.4756,2.5756
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.1,30C/65%RH,0.7382,0.7223,0.7514
+Quetzaltenango,observations + adjusted reanalysis at night,110.0,0.1,30C/75%RH,0.2716,0.2657,0.2764
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.0,25C/60%RH,0.2361,0.2264,0.2473
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.0,30C/65%RH,0.1063,0.1019,0.1113
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.0,30C/75%RH,0.1063,0.1019,0.1113
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.02,25C/60%RH,0.2901,0.2816,0.2989
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.02,30C/65%RH,0.1181,0.1147,0.1217
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.02,30C/75%RH,0.0967,0.0939,0.0996
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.04,25C/60%RH,0.4145,0.4046,0.424
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.04,30C/65%RH,0.1527,0.1491,0.1562
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.04,30C/75%RH,0.1024,0.0999,0.1047
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.06,25C/60%RH,0.6666,0.6512,0.6801
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.06,30C/65%RH,0.2222,0.2171,0.2268
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.06,30C/75%RH,0.122,0.1191,0.1244
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.08,25C/60%RH,1.1629,1.1383,1.1853
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.08,30C/65%RH,0.3508,0.3434,0.3576
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.08,30C/75%RH,0.1576,0.1543,0.1607
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.1,25C/60%RH,2.1387,2.0892,2.1784
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.1,30C/65%RH,0.5838,0.5703,0.5946
+Quetzaltenango,observations + adjusted reanalysis at night,120.0,0.1,30C/75%RH,0.2148,0.2098,0.2187
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.0,25C/60%RH,0.2151,0.2058,0.2265
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.0,30C/65%RH,0.0906,0.0866,0.0954
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.0,30C/75%RH,0.0906,0.0866,0.0954
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.02,25C/60%RH,0.2584,0.2493,0.2686
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.02,30C/65%RH,0.0985,0.095,0.1023
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.02,30C/75%RH,0.0806,0.0778,0.0838
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.04,25C/60%RH,0.3621,0.352,0.3728
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.04,30C/65%RH,0.1248,0.1213,0.1285
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.04,30C/75%RH,0.0837,0.0813,0.0861
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.06,25C/60%RH,0.5738,0.5608,0.5865
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.06,30C/65%RH,0.179,0.1749,0.183
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.06,30C/75%RH,0.0982,0.096,0.1004
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.08,25C/60%RH,0.9911,0.9694,1.0107
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.08,30C/65%RH,0.2797,0.2736,0.2853
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.08,30C/75%RH,0.1257,0.1229,0.1282
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.1,25C/60%RH,1.811,1.771,1.8521
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.1,30C/65%RH,0.4625,0.4523,0.473
+Quetzaltenango,observations + adjusted reanalysis at night,130.0,0.1,30C/75%RH,0.1702,0.1664,0.174
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.0,25C/60%RH,0.1967,0.1868,0.2072
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.0,30C/65%RH,0.0775,0.0736,0.0816
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.0,30C/75%RH,0.0775,0.0736,0.0816
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.02,25C/60%RH,0.2311,0.2229,0.2409
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.02,30C/65%RH,0.0824,0.0795,0.0859
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.02,30C/75%RH,0.0675,0.0651,0.0703
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.04,25C/60%RH,0.3174,0.3082,0.3273
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.04,30C/65%RH,0.1024,0.0994,0.1056
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.04,30C/75%RH,0.0686,0.0666,0.0708
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.06,25C/60%RH,0.4953,0.4818,0.5081
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.06,30C/65%RH,0.1446,0.1406,0.1483
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.06,30C/75%RH,0.0793,0.0772,0.0814
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.08,25C/60%RH,0.8466,0.8264,0.8649
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.08,30C/65%RH,0.2236,0.2182,0.2284
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.08,30C/75%RH,0.1005,0.0981,0.1026
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.1,25C/60%RH,1.5364,1.5028,1.5724
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.1,30C/65%RH,0.3671,0.3591,0.3757
+Quetzaltenango,observations + adjusted reanalysis at night,140.0,0.1,30C/75%RH,0.1351,0.1321,0.1382
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.0,25C/60%RH,0.1805,0.171,0.192
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.0,30C/65%RH,0.0665,0.063,0.0708
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.0,30C/75%RH,0.0665,0.063,0.0708
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.02,25C/60%RH,0.2075,0.1991,0.2168
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.02,30C/65%RH,0.0692,0.0664,0.0723
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.02,30C/75%RH,0.0567,0.0544,0.0592
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.04,25C/60%RH,0.2793,0.27,0.2881
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.04,30C/65%RH,0.0843,0.0815,0.0869
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.04,30C/75%RH,0.0565,0.0546,0.0583
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.06,25C/60%RH,0.4288,0.4172,0.4402
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.06,30C/65%RH,0.1171,0.1139,0.1202
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.06,30C/75%RH,0.0643,0.0625,0.066
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.08,25C/60%RH,0.7248,0.7058,0.7422
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.08,30C/65%RH,0.1791,0.1744,0.1834
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.08,30C/75%RH,0.0805,0.0784,0.0824
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.1,25C/60%RH,1.3058,1.2738,1.3375
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.1,30C/65%RH,0.2919,0.2848,0.299
+Quetzaltenango,observations + adjusted reanalysis at night,150.0,0.1,30C/75%RH,0.1074,0.1048,0.11
+Huehuetenango,station observations,60.0,0.0,25C/60%RH,0.6108,0.5989,0.6233
+Huehuetenango,station observations,60.0,0.0,30C/65%RH,0.4097,0.4018,0.4181
+Huehuetenango,station observations,60.0,0.0,30C/75%RH,0.4097,0.4018,0.4181
+Huehuetenango,station observations,60.0,0.02,25C/60%RH,0.7504,0.7349,0.7691
+Huehuetenango,station observations,60.0,0.02,30C/65%RH,0.4555,0.4461,0.4668
+Huehuetenango,station observations,60.0,0.02,30C/75%RH,0.3729,0.3652,0.3822
+Huehuetenango,station observations,60.0,0.04,25C/60%RH,1.1023,1.058,1.1427
+Huehuetenango,station observations,60.0,0.04,30C/65%RH,0.6054,0.5811,0.6276
+Huehuetenango,station observations,60.0,0.04,30C/75%RH,0.4058,0.3895,0.4207
+Huehuetenango,station observations,60.0,0.06,25C/60%RH,1.8359,1.7438,1.9296
+Huehuetenango,station observations,60.0,0.06,30C/65%RH,0.9124,0.8666,0.959
+Huehuetenango,station observations,60.0,0.06,30C/75%RH,0.5007,0.4756,0.5263
+Huehuetenango,station observations,60.0,0.08,25C/60%RH,3.3115,3.0971,3.531
+Huehuetenango,station observations,60.0,0.08,30C/65%RH,1.4892,1.3927,1.5879
+Huehuetenango,station observations,60.0,0.08,30C/75%RH,0.6691,0.6258,0.7135
+Huehuetenango,station observations,60.0,0.1,25C/60%RH,6.2785,5.8185,6.7828
+Huehuetenango,station observations,60.0,0.1,30C/65%RH,2.5547,2.3675,2.7599
+Huehuetenango,station observations,60.0,0.1,30C/75%RH,0.9398,0.871,1.0153
+Huehuetenango,station observations,70.0,0.0,25C/60%RH,0.5726,0.5602,0.5868
+Huehuetenango,station observations,70.0,0.0,30C/65%RH,0.3594,0.3516,0.3683
+Huehuetenango,station observations,70.0,0.0,30C/75%RH,0.3594,0.3516,0.3683
+Huehuetenango,station observations,70.0,0.02,25C/60%RH,0.6846,0.6675,0.7018
+Huehuetenango,station observations,70.0,0.02,30C/65%RH,0.3888,0.3791,0.3986
+Huehuetenango,station observations,70.0,0.02,30C/75%RH,0.3183,0.3104,0.3263
+Huehuetenango,station observations,70.0,0.04,25C/60%RH,0.9847,0.9484,1.0216
+Huehuetenango,station observations,70.0,0.04,30C/65%RH,0.506,0.4874,0.525
+Huehuetenango,station observations,70.0,0.04,30C/75%RH,0.3392,0.3267,0.3519
+Huehuetenango,station observations,70.0,0.06,25C/60%RH,1.6178,1.5334,1.7005
+Huehuetenango,station observations,70.0,0.06,30C/65%RH,0.7522,0.713,0.7907
+Huehuetenango,station observations,70.0,0.06,30C/75%RH,0.4128,0.3913,0.434
+Huehuetenango,station observations,70.0,0.08,25C/60%RH,2.8938,2.7038,3.0824
+Huehuetenango,station observations,70.0,0.08,30C/65%RH,1.2175,1.1376,1.2969
+Huehuetenango,station observations,70.0,0.08,30C/75%RH,0.5471,0.5112,0.5827
+Huehuetenango,station observations,70.0,0.1,25C/60%RH,5.4584,5.0369,5.8717
+Huehuetenango,station observations,70.0,0.1,30C/65%RH,2.078,1.9176,2.2354
+Huehuetenango,station observations,70.0,0.1,30C/75%RH,0.7645,0.7054,0.8223
+Huehuetenango,station observations,80.0,0.0,25C/60%RH,0.5395,0.5262,0.5552
+Huehuetenango,station observations,80.0,0.0,30C/65%RH,0.3168,0.309,0.3261
+Huehuetenango,station observations,80.0,0.0,30C/75%RH,0.3168,0.309,0.3261
+Huehuetenango,station observations,80.0,0.02,25C/60%RH,0.6274,0.6106,0.645
+Huehuetenango,station observations,80.0,0.02,30C/65%RH,0.3334,0.3245,0.3427
+Huehuetenango,station observations,80.0,0.02,30C/75%RH,0.2729,0.2656,0.2806
+Huehuetenango,station observations,80.0,0.04,25C/60%RH,0.8829,0.8511,0.917
+Huehuetenango,station observations,80.0,0.04,30C/65%RH,0.4245,0.4092,0.4409
+Huehuetenango,station observations,80.0,0.04,30C/75%RH,0.2846,0.2743,0.2956
+Huehuetenango,station observations,80.0,0.06,25C/60%RH,1.4295,1.3556,1.5017
+Huehuetenango,station observations,80.0,0.06,30C/65%RH,0.6219,0.5898,0.6533
+Huehuetenango,station observations,80.0,0.06,30C/75%RH,0.3413,0.3237,0.3586
+Huehuetenango,station observations,80.0,0.08,25C/60%RH,2.5343,2.3681,2.702
+Huehuetenango,station observations,80.0,0.08,30C/65%RH,0.9977,0.9322,1.0637
+Huehuetenango,station observations,80.0,0.08,30C/75%RH,0.4483,0.4189,0.4779
+Huehuetenango,station observations,80.0,0.1,25C/60%RH,4.7544,4.4143,5.1263
+Huehuetenango,station observations,80.0,0.1,30C/65%RH,1.6935,1.5724,1.826
+Huehuetenango,station observations,80.0,0.1,30C/75%RH,0.623,0.5784,0.6717
+Huehuetenango,station observations,83.144,0.0,25C/60%RH,0.53,0.5165,0.5462
+Huehuetenango,station observations,83.144,0.0,30C/65%RH,0.3048,0.2971,0.3141
+Huehuetenango,station observations,83.144,0.0,30C/75%RH,0.3048,0.2971,0.3141
+Huehuetenango,station observations,83.144,0.02,25C/60%RH,0.611,0.595,0.6291
+Huehuetenango,station observations,83.144,0.02,30C/65%RH,0.3179,0.3096,0.3274
+Huehuetenango,station observations,83.144,0.02,30C/75%RH,0.2603,0.2535,0.268
+Huehuetenango,station observations,83.144,0.04,25C/60%RH,0.8537,0.8203,0.8885
+Huehuetenango,station observations,83.144,0.04,30C/65%RH,0.402,0.3863,0.4184
+Huehuetenango,station observations,83.144,0.04,30C/75%RH,0.2695,0.2589,0.2804
+Huehuetenango,station observations,83.144,0.06,25C/60%RH,1.3757,1.3059,1.4511
+Huehuetenango,station observations,83.144,0.06,30C/65%RH,0.5861,0.5564,0.6182
+Huehuetenango,station observations,83.144,0.06,30C/75%RH,0.3217,0.3054,0.3393
+Huehuetenango,station observations,83.144,0.08,25C/60%RH,2.4319,2.2727,2.5983
+Huehuetenango,station observations,83.144,0.08,30C/65%RH,0.9375,0.8762,1.0017
+Huehuetenango,station observations,83.144,0.08,30C/75%RH,0.4213,0.3937,0.4501
+Huehuetenango,station observations,83.144,0.1,25C/60%RH,4.5541,4.2364,4.9021
+Huehuetenango,station observations,83.144,0.1,30C/65%RH,1.5886,1.4777,1.71
+Huehuetenango,station observations,83.144,0.1,30C/75%RH,0.5844,0.5436,0.6291
+Huehuetenango,station observations,90.0,0.0,25C/60%RH,0.5108,0.4959,0.5287
+Huehuetenango,station observations,90.0,0.0,30C/65%RH,0.2807,0.2725,0.2905
+Huehuetenango,station observations,90.0,0.0,30C/75%RH,0.2807,0.2725,0.2905
+Huehuetenango,station observations,90.0,0.02,25C/60%RH,0.5776,0.5617,0.5954
+Huehuetenango,station observations,90.0,0.02,30C/65%RH,0.2872,0.2792,0.296
+Huehuetenango,station observations,90.0,0.02,30C/75%RH,0.2351,0.2286,0.2423
+Huehuetenango,station observations,90.0,0.04,25C/60%RH,0.7945,0.763,0.8289
+Huehuetenango,station observations,90.0,0.04,30C/65%RH,0.3574,0.3432,0.3729
+Huehuetenango,station observations,90.0,0.04,30C/75%RH,0.2396,0.2301,0.25
+Huehuetenango,station observations,90.0,0.06,25C/60%RH,1.2667,1.1989,1.3389
+Huehuetenango,station observations,90.0,0.06,30C/65%RH,0.5156,0.488,0.545
+Huehuetenango,station observations,90.0,0.06,30C/75%RH,0.283,0.2678,0.2991
+Huehuetenango,station observations,90.0,0.08,25C/60%RH,2.2244,2.0814,2.3719
+Huehuetenango,station observations,90.0,0.08,30C/65%RH,0.8193,0.7666,0.8736
+Huehuetenango,station observations,90.0,0.08,30C/75%RH,0.3681,0.3445,0.3925
+Huehuetenango,station observations,90.0,0.1,25C/60%RH,4.1489,3.8332,4.4717
+Huehuetenango,station observations,90.0,0.1,30C/65%RH,1.3827,1.2775,1.4903
+Huehuetenango,station observations,90.0,0.1,30C/75%RH,0.5087,0.47,0.5482
+Huehuetenango,station observations,100.0,0.0,25C/60%RH,0.4859,0.471,0.5053
+Huehuetenango,station observations,100.0,0.0,30C/65%RH,0.2498,0.2421,0.2598
+Huehuetenango,station observations,100.0,0.0,30C/75%RH,0.2498,0.2421,0.2598
+Huehuetenango,station observations,100.0,0.02,25C/60%RH,0.5342,0.5186,0.5529
+Huehuetenango,station observations,100.0,0.02,30C/65%RH,0.2485,0.2412,0.2572
+Huehuetenango,station observations,100.0,0.02,30C/75%RH,0.2035,0.1975,0.2106
+Huehuetenango,station observations,100.0,0.04,25C/60%RH,0.7177,0.6895,0.7483
+Huehuetenango,station observations,100.0,0.04,30C/65%RH,0.3021,0.2902,0.315
+Huehuetenango,station observations,100.0,0.04,30C/75%RH,0.2025,0.1945,0.2111
+Huehuetenango,station observations,100.0,0.06,25C/60%RH,1.1256,1.0672,1.1896
+Huehuetenango,station observations,100.0,0.06,30C/65%RH,0.4287,0.4064,0.4531
+Huehuetenango,station observations,100.0,0.06,30C/75%RH,0.2353,0.2231,0.2486
+Huehuetenango,station observations,100.0,0.08,25C/60%RH,1.9568,1.8308,2.0881
+Huehuetenango,station observations,100.0,0.08,30C/65%RH,0.6743,0.6309,0.7196
+Huehuetenango,station observations,100.0,0.08,30C/75%RH,0.303,0.2835,0.3233
+Huehuetenango,station observations,100.0,0.1,25C/60%RH,3.6272,3.357,3.9411
+Huehuetenango,station observations,100.0,0.1,30C/65%RH,1.131,1.0468,1.2289
+Huehuetenango,station observations,100.0,0.1,30C/75%RH,0.4161,0.3851,0.4521
+Huehuetenango,station observations,110.0,0.0,25C/60%RH,0.4645,0.4481,0.4854
+Huehuetenango,station observations,110.0,0.0,30C/65%RH,0.2234,0.2155,0.2335
+Huehuetenango,station observations,110.0,0.0,30C/75%RH,0.2234,0.2155,0.2335
+Huehuetenango,station observations,110.0,0.02,25C/60%RH,0.4965,0.4816,0.5153
+Huehuetenango,station observations,110.0,0.02,30C/65%RH,0.2161,0.2096,0.2243
+Huehuetenango,station observations,110.0,0.02,30C/75%RH,0.1769,0.1716,0.1836
+Huehuetenango,station observations,110.0,0.04,25C/60%RH,0.6508,0.6236,0.6806
+Huehuetenango,station observations,110.0,0.04,30C/65%RH,0.2563,0.2456,0.268
+Huehuetenango,station observations,110.0,0.04,30C/75%RH,0.1718,0.1646,0.1797
+Huehuetenango,station observations,110.0,0.06,25C/60%RH,1.0033,0.9467,1.0615
+Huehuetenango,station observations,110.0,0.06,30C/65%RH,0.3575,0.3374,0.3783
+Huehuetenango,station observations,110.0,0.06,30C/75%RH,0.1962,0.1851,0.2076
+Huehuetenango,station observations,110.0,0.08,25C/60%RH,1.7252,1.607,1.846
+Huehuetenango,station observations,110.0,0.08,30C/65%RH,0.5563,0.5182,0.5952
+Huehuetenango,station observations,110.0,0.08,30C/75%RH,0.2499,0.2328,0.2674
+Huehuetenango,station observations,110.0,0.1,25C/60%RH,3.177,2.9334,3.41
+Huehuetenango,station observations,110.0,0.1,30C/65%RH,0.9269,0.8558,0.9949
+Huehuetenango,station observations,110.0,0.1,30C/75%RH,0.341,0.3148,0.366
+Huehuetenango,station observations,120.0,0.0,25C/60%RH,0.446,0.4273,0.4705
+Huehuetenango,station observations,120.0,0.0,30C/65%RH,0.2007,0.1923,0.2117
+Huehuetenango,station observations,120.0,0.0,30C/75%RH,0.2007,0.1923,0.2117
+Huehuetenango,station observations,120.0,0.02,25C/60%RH,0.4635,0.4474,0.4832
+Huehuetenango,station observations,120.0,0.02,30C/65%RH,0.1888,0.1822,0.1968
+Huehuetenango,station observations,120.0,0.02,30C/75%RH,0.1545,0.1492,0.1611
+Huehuetenango,station observations,120.0,0.04,25C/60%RH,0.5925,0.5647,0.6204
+Huehuetenango,station observations,120.0,0.04,30C/65%RH,0.2183,0.2081,0.2286
+Huehuetenango,station observations,120.0,0.04,30C/75%RH,0.1464,0.1395,0.1532
+Huehuetenango,station observations,120.0,0.06,25C/60%RH,0.8969,0.846,0.9481
+Huehuetenango,station observations,120.0,0.06,30C/65%RH,0.299,0.2821,0.3161
+Huehuetenango,station observations,120.0,0.06,30C/75%RH,0.1641,0.1548,0.1735
+Huehuetenango,station observations,120.0,0.08,25C/60%RH,1.5246,1.4216,1.6352
+Huehuetenango,station observations,120.0,0.08,30C/65%RH,0.4599,0.4288,0.4933
+Huehuetenango,station observations,120.0,0.08,30C/75%RH,0.2067,0.1927,0.2217
+Huehuetenango,station observations,120.0,0.1,25C/60%RH,2.788,2.5608,3.0143
+Huehuetenango,station observations,120.0,0.1,30C/65%RH,0.761,0.699,0.8228
+Huehuetenango,station observations,120.0,0.1,30C/75%RH,0.28,0.2572,0.3027
+Huehuetenango,station observations,130.0,0.0,25C/60%RH,0.4302,0.4098,0.454
+Huehuetenango,station observations,130.0,0.0,30C/65%RH,0.1811,0.1726,0.1912
+Huehuetenango,station observations,130.0,0.0,30C/75%RH,0.1811,0.1726,0.1912
+Huehuetenango,station observations,130.0,0.02,25C/60%RH,0.4349,0.4168,0.4543
+Huehuetenango,station observations,130.0,0.02,30C/65%RH,0.1657,0.1588,0.1731
+Huehuetenango,station observations,130.0,0.02,30C/75%RH,0.1356,0.13,0.1417
+Huehuetenango,station observations,130.0,0.04,25C/60%RH,0.5417,0.5163,0.5669
+Huehuetenango,station observations,130.0,0.04,30C/65%RH,0.1867,0.178,0.1954
+Huehuetenango,station observations,130.0,0.04,30C/75%RH,0.1252,0.1193,0.131
+Huehuetenango,station observations,130.0,0.06,25C/60%RH,0.8043,0.7593,0.8512
+Huehuetenango,station observations,130.0,0.06,30C/65%RH,0.2509,0.2368,0.2655
+Huehuetenango,station observations,130.0,0.06,30C/75%RH,0.1377,0.13,0.1457
+Huehuetenango,station observations,130.0,0.08,25C/60%RH,1.3504,1.263,1.4469
+Huehuetenango,station observations,130.0,0.08,30C/65%RH,0.3812,0.3565,0.4084
+Huehuetenango,station observations,130.0,0.08,30C/75%RH,0.1713,0.1602,0.1835
+Huehuetenango,station observations,130.0,0.1,25C/60%RH,2.4511,2.2548,2.6506
+Huehuetenango,station observations,130.0,0.1,30C/65%RH,0.626,0.5759,0.6769
+Huehuetenango,station observations,130.0,0.1,30C/75%RH,0.2303,0.2118,0.249
+Huehuetenango,station observations,140.0,0.0,25C/60%RH,0.4168,0.3945,0.4416
+Huehuetenango,station observations,140.0,0.0,30C/65%RH,0.1642,0.1554,0.174
+Huehuetenango,station observations,140.0,0.0,30C/75%RH,0.1642,0.1554,0.174
+Huehuetenango,station observations,140.0,0.02,25C/60%RH,0.4099,0.3939,0.432
+Huehuetenango,station observations,140.0,0.02,30C/65%RH,0.1461,0.1404,0.154
+Huehuetenango,station observations,140.0,0.02,30C/75%RH,0.1196,0.115,0.1261
+Huehuetenango,station observations,140.0,0.04,25C/60%RH,0.4972,0.4754,0.5218
+Huehuetenango,station observations,140.0,0.04,30C/65%RH,0.1604,0.1534,0.1683
+Huehuetenango,station observations,140.0,0.04,30C/75%RH,0.1075,0.1028,0.1128
+Huehuetenango,station observations,140.0,0.06,25C/60%RH,0.7236,0.6806,0.7671
+Huehuetenango,station observations,140.0,0.06,30C/65%RH,0.2112,0.1986,0.2239
+Huehuetenango,station observations,140.0,0.06,30C/75%RH,0.1159,0.109,0.1229
+Huehuetenango,station observations,140.0,0.08,25C/60%RH,1.1991,1.1139,1.2881
+Huehuetenango,station observations,140.0,0.08,30C/65%RH,0.3167,0.2942,0.3402
+Huehuetenango,station observations,140.0,0.08,30C/75%RH,0.1423,0.1322,0.1529
+Huehuetenango,station observations,140.0,0.1,25C/60%RH,2.1591,1.9945,2.3307
+Huehuetenango,station observations,140.0,0.1,30C/65%RH,0.5159,0.4766,0.5569
+Huehuetenango,station observations,140.0,0.1,30C/75%RH,0.1898,0.1753,0.2049
+Huehuetenango,station observations,150.0,0.0,25C/60%RH,0.4055,0.3824,0.4331
+Huehuetenango,station observations,150.0,0.0,30C/65%RH,0.1495,0.141,0.1597
+Huehuetenango,station observations,150.0,0.0,30C/75%RH,0.1495,0.141,0.1597
+Huehuetenango,station observations,150.0,0.02,25C/60%RH,0.3881,0.3704,0.4086
+Huehuetenango,station observations,150.0,0.02,30C/65%RH,0.1295,0.1235,0.1363
+Huehuetenango,station observations,150.0,0.02,30C/75%RH,0.106,0.1011,0.1116
+Huehuetenango,station observations,150.0,0.04,25C/60%RH,0.4584,0.4363,0.4833
+Huehuetenango,station observations,150.0,0.04,30C/65%RH,0.1383,0.1317,0.1459
+Huehuetenango,station observations,150.0,0.04,30C/75%RH,0.0927,0.0883,0.0978
+Huehuetenango,station observations,150.0,0.06,25C/60%RH,0.6532,0.6151,0.6956
+Huehuetenango,station observations,150.0,0.06,30C/65%RH,0.1784,0.168,0.1899
+Huehuetenango,station observations,150.0,0.06,30C/75%RH,0.0979,0.0922,0.1042
+Huehuetenango,station observations,150.0,0.08,25C/60%RH,1.0674,0.986,1.1379
+Huehuetenango,station observations,150.0,0.08,30C/65%RH,0.2637,0.2436,0.2812
+Huehuetenango,station observations,150.0,0.08,30C/75%RH,0.1185,0.1095,0.1263
+Huehuetenango,station observations,150.0,0.1,25C/60%RH,1.9056,1.748,2.0627
+Huehuetenango,station observations,150.0,0.1,30C/65%RH,0.4261,0.3908,0.4612
+Huehuetenango,station observations,150.0,0.1,30C/75%RH,0.1567,0.1438,0.1697
+Coban,observations + adjusted reanalysis at night,60.0,0.0,25C/60%RH,0.6468,0.6342,0.6604
+Coban,observations + adjusted reanalysis at night,60.0,0.0,30C/65%RH,0.4339,0.4255,0.443
+Coban,observations + adjusted reanalysis at night,60.0,0.0,30C/75%RH,0.4339,0.4255,0.443
+Coban,observations + adjusted reanalysis at night,60.0,0.02,25C/60%RH,1.0375,1.0207,1.0522
+Coban,observations + adjusted reanalysis at night,60.0,0.02,30C/65%RH,0.6298,0.6196,0.6387
+Coban,observations + adjusted reanalysis at night,60.0,0.02,30C/75%RH,0.5156,0.5073,0.5229
+Coban,observations + adjusted reanalysis at night,60.0,0.04,25C/60%RH,1.8469,1.8209,1.8688
+Coban,observations + adjusted reanalysis at night,60.0,0.04,30C/65%RH,1.0144,1.0001,1.0265
+Coban,observations + adjusted reanalysis at night,60.0,0.04,30C/75%RH,0.68,0.6704,0.6881
+Coban,observations + adjusted reanalysis at night,60.0,0.06,25C/60%RH,3.5343,3.4815,3.5824
+Coban,observations + adjusted reanalysis at night,60.0,0.06,30C/65%RH,1.7565,1.7302,1.7804
+Coban,observations + adjusted reanalysis at night,60.0,0.06,30C/75%RH,0.964,0.9496,0.9771
+Coban,observations + adjusted reanalysis at night,60.0,0.08,25C/60%RH,7.0858,6.9623,7.1997
+Coban,observations + adjusted reanalysis at night,60.0,0.08,30C/65%RH,3.1864,3.1308,3.2376
+Coban,observations + adjusted reanalysis at night,60.0,0.08,30C/75%RH,1.4317,1.4068,1.4547
+Coban,observations + adjusted reanalysis at night,60.0,0.1,25C/60%RH,14.627,14.3298,14.9049
+Coban,observations + adjusted reanalysis at night,60.0,0.1,30C/65%RH,5.9516,5.8307,6.0647
+Coban,observations + adjusted reanalysis at night,60.0,0.1,30C/75%RH,2.1895,2.145,2.2311
+Coban,observations + adjusted reanalysis at night,70.0,0.0,25C/60%RH,0.6108,0.5972,0.6261
+Coban,observations + adjusted reanalysis at night,70.0,0.0,30C/65%RH,0.3834,0.3748,0.393
+Coban,observations + adjusted reanalysis at night,70.0,0.0,30C/75%RH,0.3834,0.3748,0.393
+Coban,observations + adjusted reanalysis at night,70.0,0.02,25C/60%RH,0.9603,0.9433,0.9778
+Coban,observations + adjusted reanalysis at night,70.0,0.02,30C/65%RH,0.5454,0.5357,0.5553
+Coban,observations + adjusted reanalysis at night,70.0,0.02,30C/75%RH,0.4465,0.4386,0.4547
+Coban,observations + adjusted reanalysis at night,70.0,0.04,25C/60%RH,1.6838,1.6596,1.7062
+Coban,observations + adjusted reanalysis at night,70.0,0.04,30C/65%RH,0.8653,0.8529,0.8768
+Coban,observations + adjusted reanalysis at night,70.0,0.04,30C/75%RH,0.58,0.5717,0.5877
+Coban,observations + adjusted reanalysis at night,70.0,0.06,25C/60%RH,3.1894,3.1423,3.2313
+Coban,observations + adjusted reanalysis at night,70.0,0.06,30C/65%RH,1.483,1.4611,1.5025
+Coban,observations + adjusted reanalysis at night,70.0,0.06,30C/75%RH,0.8139,0.8019,0.8246
+Coban,observations + adjusted reanalysis at night,70.0,0.08,25C/60%RH,6.3522,6.2356,6.467
+Coban,observations + adjusted reanalysis at night,70.0,0.08,30C/65%RH,2.6726,2.6236,2.7209
+Coban,observations + adjusted reanalysis at night,70.0,0.08,30C/75%RH,1.2009,1.1788,1.2226
+Coban,observations + adjusted reanalysis at night,70.0,0.1,25C/60%RH,13.0573,12.7982,13.3074
+Coban,observations + adjusted reanalysis at night,70.0,0.1,30C/65%RH,4.971,4.8723,5.0662
+Coban,observations + adjusted reanalysis at night,70.0,0.1,30C/75%RH,1.8287,1.7924,1.8637
+Coban,observations + adjusted reanalysis at night,80.0,0.0,25C/60%RH,0.5794,0.5646,0.5963
+Coban,observations + adjusted reanalysis at night,80.0,0.0,30C/65%RH,0.3403,0.3316,0.3502
+Coban,observations + adjusted reanalysis at night,80.0,0.0,30C/75%RH,0.3403,0.3316,0.3502
+Coban,observations + adjusted reanalysis at night,80.0,0.02,25C/60%RH,0.8922,0.8757,0.9094
+Coban,observations + adjusted reanalysis at night,80.0,0.02,30C/65%RH,0.4741,0.4653,0.4833
+Coban,observations + adjusted reanalysis at night,80.0,0.02,30C/75%RH,0.3882,0.381,0.3957
+Coban,observations + adjusted reanalysis at night,80.0,0.04,25C/60%RH,1.5398,1.5125,1.5635
+Coban,observations + adjusted reanalysis at night,80.0,0.04,30C/65%RH,0.7404,0.7272,0.7518
+Coban,observations + adjusted reanalysis at night,80.0,0.04,30C/75%RH,0.4963,0.4875,0.5039
+Coban,observations + adjusted reanalysis at night,80.0,0.06,25C/60%RH,2.8851,2.8381,2.9218
+Coban,observations + adjusted reanalysis at night,80.0,0.06,30C/65%RH,1.2552,1.2348,1.2712
+Coban,observations + adjusted reanalysis at night,80.0,0.06,30C/75%RH,0.6889,0.6777,0.6976
+Coban,observations + adjusted reanalysis at night,80.0,0.08,25C/60%RH,5.7057,5.6042,5.7978
+Coban,observations + adjusted reanalysis at night,80.0,0.08,30C/65%RH,2.2461,2.2062,2.2824
+Coban,observations + adjusted reanalysis at night,80.0,0.08,30C/75%RH,1.0092,0.9913,1.0255
+Coban,observations + adjusted reanalysis at night,80.0,0.1,25C/60%RH,11.6755,11.4458,11.927
+Coban,observations + adjusted reanalysis at night,80.0,0.1,30C/65%RH,4.1588,4.077,4.2484
+Coban,observations + adjusted reanalysis at night,80.0,0.1,30C/75%RH,1.5299,1.4998,1.5629
+Coban,observations + adjusted reanalysis at night,83.144,0.0,25C/60%RH,0.5704,0.5545,0.5875
+Coban,observations + adjusted reanalysis at night,83.144,0.0,30C/65%RH,0.328,0.3189,0.3379
+Coban,observations + adjusted reanalysis at night,83.144,0.0,30C/75%RH,0.328,0.3189,0.3379
+Coban,observations + adjusted reanalysis at night,83.144,0.02,25C/60%RH,0.8726,0.8548,0.8922
+Coban,observations + adjusted reanalysis at night,83.144,0.02,30C/65%RH,0.4541,0.4448,0.4643
+Coban,observations + adjusted reanalysis at night,83.144,0.02,30C/75%RH,0.3718,0.3642,0.3801
+Coban,observations + adjusted reanalysis at night,83.144,0.04,25C/60%RH,1.4982,1.4702,1.5221
+Coban,observations + adjusted reanalysis at night,83.144,0.04,30C/65%RH,0.7054,0.6923,0.7167
+Coban,observations + adjusted reanalysis at night,83.144,0.04,30C/75%RH,0.4729,0.464,0.4804
+Coban,observations + adjusted reanalysis at night,83.144,0.06,25C/60%RH,2.797,2.7507,2.8355
+Coban,observations + adjusted reanalysis at night,83.144,0.06,30C/65%RH,1.1917,1.1719,1.2081
+Coban,observations + adjusted reanalysis at night,83.144,0.06,30C/75%RH,0.654,0.6432,0.663
+Coban,observations + adjusted reanalysis at night,83.144,0.08,25C/60%RH,5.5187,5.4228,5.6083
+Coban,observations + adjusted reanalysis at night,83.144,0.08,30C/65%RH,2.1275,2.0906,2.162
+Coban,observations + adjusted reanalysis at night,83.144,0.08,30C/75%RH,0.9559,0.9393,0.9715
+Coban,observations + adjusted reanalysis at night,83.144,0.1,25C/60%RH,11.276,11.0523,11.4896
+Coban,observations + adjusted reanalysis at night,83.144,0.1,30C/65%RH,3.9333,3.8553,4.0078
+Coban,observations + adjusted reanalysis at night,83.144,0.1,30C/75%RH,1.447,1.4183,1.4744
+Coban,observations + adjusted reanalysis at night,90.0,0.0,25C/60%RH,0.552,0.5358,0.5704
+Coban,observations + adjusted reanalysis at night,90.0,0.0,30C/65%RH,0.3033,0.2944,0.3134
+Coban,observations + adjusted reanalysis at night,90.0,0.0,30C/75%RH,0.3033,0.2944,0.3134
+Coban,observations + adjusted reanalysis at night,90.0,0.02,25C/60%RH,0.8323,0.813,0.8514
+Coban,observations + adjusted reanalysis at night,90.0,0.02,30C/65%RH,0.4138,0.4042,0.4233
+Coban,observations + adjusted reanalysis at night,90.0,0.02,30C/75%RH,0.3388,0.3309,0.3466
+Coban,observations + adjusted reanalysis at night,90.0,0.04,25C/60%RH,1.4127,1.3836,1.4393
+Coban,observations + adjusted reanalysis at night,90.0,0.04,30C/65%RH,0.6355,0.6224,0.6475
+Coban,observations + adjusted reanalysis at night,90.0,0.04,30C/75%RH,0.426,0.4172,0.434
+Coban,observations + adjusted reanalysis at night,90.0,0.06,25C/60%RH,2.6163,2.5697,2.6554
+Coban,observations + adjusted reanalysis at night,90.0,0.06,30C/65%RH,1.065,1.046,1.0809
+Coban,observations + adjusted reanalysis at night,90.0,0.06,30C/75%RH,0.5845,0.5741,0.5932
+Coban,observations + adjusted reanalysis at night,90.0,0.08,25C/60%RH,5.1353,5.0395,5.2192
+Coban,observations + adjusted reanalysis at night,90.0,0.08,30C/65%RH,1.8914,1.8562,1.9223
+Coban,observations + adjusted reanalysis at night,90.0,0.08,30C/75%RH,0.8499,0.834,0.8638
+Coban,observations + adjusted reanalysis at night,90.0,0.1,25C/60%RH,10.4574,10.2604,10.6562
+Coban,observations + adjusted reanalysis at night,90.0,0.1,30C/65%RH,3.4851,3.4195,3.5514
+Coban,observations + adjusted reanalysis at night,90.0,0.1,30C/75%RH,1.2821,1.2579,1.3065
+Coban,observations + adjusted reanalysis at night,100.0,0.0,25C/60%RH,0.5283,0.5107,0.548
+Coban,observations + adjusted reanalysis at night,100.0,0.0,30C/65%RH,0.2716,0.2625,0.2817
+Coban,observations + adjusted reanalysis at night,100.0,0.0,30C/75%RH,0.2716,0.2625,0.2817
+Coban,observations + adjusted reanalysis at night,100.0,0.02,25C/60%RH,0.7796,0.7584,0.8018
+Coban,observations + adjusted reanalysis at night,100.0,0.02,30C/65%RH,0.3626,0.3528,0.373
+Coban,observations + adjusted reanalysis at night,100.0,0.02,30C/75%RH,0.2969,0.2889,0.3054
+Coban,observations + adjusted reanalysis at night,100.0,0.04,25C/60%RH,1.3003,1.2676,1.3285
+Coban,observations + adjusted reanalysis at night,100.0,0.04,30C/65%RH,0.5473,0.5336,0.5592
+Coban,observations + adjusted reanalysis at night,100.0,0.04,30C/75%RH,0.3669,0.3577,0.3748
+Coban,observations + adjusted reanalysis at night,100.0,0.06,25C/60%RH,2.3787,2.3318,2.4193
+Coban,observations + adjusted reanalysis at night,100.0,0.06,30C/65%RH,0.9059,0.8881,0.9214
+Coban,observations + adjusted reanalysis at night,100.0,0.06,30C/75%RH,0.4972,0.4874,0.5057
+Coban,observations + adjusted reanalysis at night,100.0,0.08,25C/60%RH,4.6312,4.5402,4.7116
+Coban,observations + adjusted reanalysis at night,100.0,0.08,30C/65%RH,1.5959,1.5646,1.6237
+Coban,observations + adjusted reanalysis at night,100.0,0.08,30C/75%RH,0.7171,0.703,0.7296
+Coban,observations + adjusted reanalysis at night,100.0,0.1,25C/60%RH,9.3821,9.1801,9.5769
+Coban,observations + adjusted reanalysis at night,100.0,0.1,30C/65%RH,2.9255,2.8625,2.9863
+Coban,observations + adjusted reanalysis at night,100.0,0.1,30C/75%RH,1.0762,1.0531,1.0986
+Coban,observations + adjusted reanalysis at night,110.0,0.0,25C/60%RH,0.5078,0.4898,0.529
+Coban,observations + adjusted reanalysis at night,110.0,0.0,30C/65%RH,0.2443,0.2356,0.2545
+Coban,observations + adjusted reanalysis at night,110.0,0.0,30C/75%RH,0.2443,0.2356,0.2545
+Coban,observations + adjusted reanalysis at night,110.0,0.02,25C/60%RH,0.7331,0.7119,0.7573
+Coban,observations + adjusted reanalysis at night,110.0,0.02,30C/65%RH,0.3191,0.3098,0.3296
+Coban,observations + adjusted reanalysis at night,110.0,0.02,30C/75%RH,0.2612,0.2537,0.2698
+Coban,observations + adjusted reanalysis at night,110.0,0.04,25C/60%RH,1.2009,1.171,1.2291
+Coban,observations + adjusted reanalysis at night,110.0,0.04,30C/65%RH,0.4729,0.4612,0.484
+Coban,observations + adjusted reanalysis at night,110.0,0.04,30C/75%RH,0.317,0.3091,0.3245
+Coban,observations + adjusted reanalysis at night,110.0,0.06,25C/60%RH,2.1683,2.1193,2.2087
+Coban,observations + adjusted reanalysis at night,110.0,0.06,30C/65%RH,0.7727,0.7552,0.787
+Coban,observations + adjusted reanalysis at night,110.0,0.06,30C/75%RH,0.424,0.4145,0.4319
+Coban,observations + adjusted reanalysis at night,110.0,0.08,25C/60%RH,4.1852,4.0947,4.2617
+Coban,observations + adjusted reanalysis at night,110.0,0.08,30C/65%RH,1.3494,1.3202,1.3741
+Coban,observations + adjusted reanalysis at night,110.0,0.08,30C/75%RH,0.6063,0.5932,0.6174
+Coban,observations + adjusted reanalysis at night,110.0,0.1,25C/60%RH,8.4316,8.2575,8.5913
+Coban,observations + adjusted reanalysis at night,110.0,0.1,30C/65%RH,2.4599,2.4091,2.5065
+Coban,observations + adjusted reanalysis at night,110.0,0.1,30C/75%RH,0.9049,0.8863,0.9221
+Coban,observations + adjusted reanalysis at night,120.0,0.0,25C/60%RH,0.4903,0.4699,0.5126
+Coban,observations + adjusted reanalysis at night,120.0,0.0,30C/65%RH,0.2206,0.2115,0.2307
+Coban,observations + adjusted reanalysis at night,120.0,0.0,30C/75%RH,0.2206,0.2115,0.2307
+Coban,observations + adjusted reanalysis at night,120.0,0.02,25C/60%RH,0.6923,0.6693,0.7179
+Coban,observations + adjusted reanalysis at night,120.0,0.02,30C/65%RH,0.2819,0.2725,0.2923
+Coban,observations + adjusted reanalysis at night,120.0,0.02,30C/75%RH,0.2308,0.2231,0.2393
+Coban,observations + adjusted reanalysis at night,120.0,0.04,25C/60%RH,1.1129,1.0841,1.1431
+Coban,observations + adjusted reanalysis at night,120.0,0.04,30C/65%RH,0.4101,0.3995,0.4212
+Coban,observations + adjusted reanalysis at night,120.0,0.04,30C/75%RH,0.2749,0.2678,0.2823
+Coban,observations + adjusted reanalysis at night,120.0,0.06,25C/60%RH,1.9819,1.9293,2.0237
+Coban,observations + adjusted reanalysis at night,120.0,0.06,30C/65%RH,0.6608,0.6432,0.6747
+Coban,observations + adjusted reanalysis at night,120.0,0.06,30C/75%RH,0.3626,0.353,0.3703
+Coban,observations + adjusted reanalysis at night,120.0,0.08,25C/60%RH,3.7901,3.7018,3.8621
+Coban,observations + adjusted reanalysis at night,120.0,0.08,30C/65%RH,1.1434,1.1167,1.1651
+Coban,observations + adjusted reanalysis at night,120.0,0.08,30C/75%RH,0.5137,0.5018,0.5235
+Coban,observations + adjusted reanalysis at night,120.0,0.1,25C/60%RH,7.5903,7.4117,7.7263
+Coban,observations + adjusted reanalysis at night,120.0,0.1,30C/65%RH,2.0719,2.0231,2.109
+Coban,observations + adjusted reanalysis at night,120.0,0.1,30C/75%RH,0.7622,0.7443,0.7759
+Coban,observations + adjusted reanalysis at night,130.0,0.0,25C/60%RH,0.4753,0.454,0.5004
+Coban,observations + adjusted reanalysis at night,130.0,0.0,30C/65%RH,0.2001,0.1912,0.2107
+Coban,observations + adjusted reanalysis at night,130.0,0.0,30C/75%RH,0.2001,0.1912,0.2107
+Coban,observations + adjusted reanalysis at night,130.0,0.02,25C/60%RH,0.6565,0.6335,0.6818
+Coban,observations + adjusted reanalysis at night,130.0,0.02,30C/65%RH,0.2501,0.2414,0.2598
+Coban,observations + adjusted reanalysis at night,130.0,0.02,30C/75%RH,0.2048,0.1976,0.2127
+Coban,observations + adjusted reanalysis at night,130.0,0.04,25C/60%RH,1.0351,1.0018,1.0674
+Coban,observations + adjusted reanalysis at night,130.0,0.04,30C/65%RH,0.3568,0.3454,0.368
+Coban,observations + adjusted reanalysis at night,130.0,0.04,30C/75%RH,0.2392,0.2315,0.2467
+Coban,observations + adjusted reanalysis at night,130.0,0.06,25C/60%RH,1.8165,1.7712,1.8583
+Coban,observations + adjusted reanalysis at night,130.0,0.06,30C/65%RH,0.5666,0.5525,0.5797
+Coban,observations + adjusted reanalysis at night,130.0,0.06,30C/75%RH,0.311,0.3032,0.3181
+Coban,observations + adjusted reanalysis at night,130.0,0.08,25C/60%RH,3.4397,3.3559,3.5169
+Coban,observations + adjusted reanalysis at night,130.0,0.08,30C/65%RH,0.9709,0.9472,0.9927
+Coban,observations + adjusted reanalysis at night,130.0,0.08,30C/75%RH,0.4362,0.4256,0.446
+Coban,observations + adjusted reanalysis at night,130.0,0.1,25C/60%RH,6.8448,6.6746,6.984
+Coban,observations + adjusted reanalysis at night,130.0,0.1,30C/65%RH,1.7481,1.7047,1.7837
+Coban,observations + adjusted reanalysis at night,130.0,0.1,30C/75%RH,0.6431,0.6271,0.6562
+Coban,observations + adjusted reanalysis at night,140.0,0.0,25C/60%RH,0.4628,0.4391,0.4879
+Coban,observations + adjusted reanalysis at night,140.0,0.0,30C/65%RH,0.1823,0.173,0.1922
+Coban,observations + adjusted reanalysis at night,140.0,0.0,30C/75%RH,0.1823,0.173,0.1922
+Coban,observations + adjusted reanalysis at night,140.0,0.02,25C/60%RH,0.6252,0.6018,0.6505
+Coban,observations + adjusted reanalysis at night,140.0,0.02,30C/65%RH,0.2229,0.2145,0.2319
+Coban,observations + adjusted reanalysis at night,140.0,0.02,30C/75%RH,0.1825,0.1757,0.1899
+Coban,observations + adjusted reanalysis at night,140.0,0.04,25C/60%RH,0.9661,0.9305,1.0004
+Coban,observations + adjusted reanalysis at night,140.0,0.04,30C/65%RH,0.3116,0.3001,0.3227
+Coban,observations + adjusted reanalysis at night,140.0,0.04,30C/75%RH,0.2089,0.2012,0.2163
+Coban,observations + adjusted reanalysis at night,140.0,0.06,25C/60%RH,1.6697,1.6192,1.7142
+Coban,observations + adjusted reanalysis at night,140.0,0.06,30C/65%RH,0.4873,0.4726,0.5003
+Coban,observations + adjusted reanalysis at night,140.0,0.06,30C/75%RH,0.2674,0.2594,0.2746
+Coban,observations + adjusted reanalysis at night,140.0,0.08,25C/60%RH,3.1285,3.0446,3.2002
+Coban,observations + adjusted reanalysis at night,140.0,0.08,30C/65%RH,0.8262,0.804,0.8451
+Coban,observations + adjusted reanalysis at night,140.0,0.08,30C/75%RH,0.3712,0.3613,0.3797
+Coban,observations + adjusted reanalysis at night,140.0,0.1,25C/60%RH,6.1833,6.0343,6.315
+Coban,observations + adjusted reanalysis at night,140.0,0.1,30C/65%RH,1.4775,1.4419,1.509
+Coban,observations + adjusted reanalysis at night,140.0,0.1,30C/75%RH,0.5436,0.5305,0.5551
+Coban,observations + adjusted reanalysis at night,150.0,0.0,25C/60%RH,0.4524,0.4288,0.4787
+Coban,observations + adjusted reanalysis at night,150.0,0.0,30C/65%RH,0.1668,0.1581,0.1765
+Coban,observations + adjusted reanalysis at night,150.0,0.0,30C/75%RH,0.1668,0.1581,0.1765
+Coban,observations + adjusted reanalysis at night,150.0,0.02,25C/60%RH,0.5978,0.5708,0.6281
+Coban,observations + adjusted reanalysis at night,150.0,0.02,30C/65%RH,0.1994,0.1904,0.2095
+Coban,observations + adjusted reanalysis at night,150.0,0.02,30C/75%RH,0.1632,0.1559,0.1715
+Coban,observations + adjusted reanalysis at night,150.0,0.04,25C/60%RH,0.9051,0.872,0.9399
+Coban,observations + adjusted reanalysis at night,150.0,0.04,30C/65%RH,0.2732,0.2632,0.2836
+Coban,observations + adjusted reanalysis at night,150.0,0.04,30C/75%RH,0.1831,0.1764,0.1901
+Coban,observations + adjusted reanalysis at night,150.0,0.06,25C/60%RH,1.5392,1.4901,1.5864
+Coban,observations + adjusted reanalysis at night,150.0,0.06,30C/65%RH,0.4203,0.4069,0.4332
+Coban,observations + adjusted reanalysis at night,150.0,0.06,30C/75%RH,0.2307,0.2233,0.2378
+Coban,observations + adjusted reanalysis at night,150.0,0.08,25C/60%RH,2.852,2.7743,2.9259
+Coban,observations + adjusted reanalysis at night,150.0,0.08,30C/65%RH,0.7047,0.6855,0.723
+Coban,observations + adjusted reanalysis at night,150.0,0.08,30C/75%RH,0.3166,0.308,0.3249
+Coban,observations + adjusted reanalysis at night,150.0,0.1,25C/60%RH,5.5957,5.4359,5.7282
+Coban,observations + adjusted reanalysis at night,150.0,0.1,30C/65%RH,1.2511,1.2153,1.2807
+Coban,observations + adjusted reanalysis at night,150.0,0.1,30C/75%RH,0.4602,0.4471,0.4711
+Zacapa,observations + adjusted reanalysis at night,60.0,0.0,25C/60%RH,1.3062,1.2806,1.3345
+Zacapa,observations + adjusted reanalysis at night,60.0,0.0,30C/65%RH,0.8763,0.8591,0.8952
+Zacapa,observations + adjusted reanalysis at night,60.0,0.0,30C/75%RH,0.8763,0.8591,0.8952
+Zacapa,observations + adjusted reanalysis at night,60.0,0.02,25C/60%RH,1.4523,1.4327,1.4729
+Zacapa,observations + adjusted reanalysis at night,60.0,0.02,30C/65%RH,0.8816,0.8697,0.8941
+Zacapa,observations + adjusted reanalysis at night,60.0,0.02,30C/75%RH,0.7218,0.712,0.732
+Zacapa,observations + adjusted reanalysis at night,60.0,0.04,25C/60%RH,1.826,1.7874,1.8671
+Zacapa,observations + adjusted reanalysis at night,60.0,0.04,30C/65%RH,1.0029,0.9817,1.0255
+Zacapa,observations + adjusted reanalysis at night,60.0,0.04,30C/75%RH,0.6723,0.6581,0.6874
+Zacapa,observations + adjusted reanalysis at night,60.0,0.06,25C/60%RH,2.5132,2.4343,2.5984
+Zacapa,observations + adjusted reanalysis at night,60.0,0.06,30C/65%RH,1.249,1.2098,1.2913
+Zacapa,observations + adjusted reanalysis at night,60.0,0.06,30C/75%RH,0.6855,0.6639,0.7087
+Zacapa,observations + adjusted reanalysis at night,60.0,0.08,25C/60%RH,3.6806,3.5301,3.85
+Zacapa,observations + adjusted reanalysis at night,60.0,0.08,30C/65%RH,1.6551,1.5874,1.7313
+Zacapa,observations + adjusted reanalysis at night,60.0,0.08,30C/75%RH,0.7437,0.7133,0.7779
+Zacapa,observations + adjusted reanalysis at night,60.0,0.1,25C/60%RH,5.6254,5.3144,5.9228
+Zacapa,observations + adjusted reanalysis at night,60.0,0.1,30C/65%RH,2.2889,2.1624,2.41
+Zacapa,observations + adjusted reanalysis at night,60.0,0.1,30C/75%RH,0.8421,0.7955,0.8866
+Zacapa,observations + adjusted reanalysis at night,70.0,0.0,25C/60%RH,1.3825,1.3497,1.4173
+Zacapa,observations + adjusted reanalysis at night,70.0,0.0,30C/65%RH,0.8678,0.8472,0.8896
+Zacapa,observations + adjusted reanalysis at night,70.0,0.0,30C/75%RH,0.8678,0.8472,0.8896
+Zacapa,observations + adjusted reanalysis at night,70.0,0.02,25C/60%RH,1.5077,1.4819,1.5316
+Zacapa,observations + adjusted reanalysis at night,70.0,0.02,30C/65%RH,0.8563,0.8416,0.8699
+Zacapa,observations + adjusted reanalysis at night,70.0,0.02,30C/75%RH,0.7011,0.6891,0.7122
+Zacapa,observations + adjusted reanalysis at night,70.0,0.04,25C/60%RH,1.8677,1.8254,1.9061
+Zacapa,observations + adjusted reanalysis at night,70.0,0.04,30C/65%RH,0.9598,0.9381,0.9795
+Zacapa,observations + adjusted reanalysis at night,70.0,0.04,30C/75%RH,0.6434,0.6288,0.6566
+Zacapa,observations + adjusted reanalysis at night,70.0,0.06,25C/60%RH,2.5443,2.4648,2.6281
+Zacapa,observations + adjusted reanalysis at night,70.0,0.06,30C/65%RH,1.1831,1.1461,1.222
+Zacapa,observations + adjusted reanalysis at night,70.0,0.06,30C/75%RH,0.6493,0.629,0.6707
+Zacapa,observations + adjusted reanalysis at night,70.0,0.08,25C/60%RH,3.7008,3.5463,3.8648
+Zacapa,observations + adjusted reanalysis at night,70.0,0.08,30C/65%RH,1.5571,1.4921,1.6261
+Zacapa,observations + adjusted reanalysis at night,70.0,0.08,30C/75%RH,0.6996,0.6704,0.7306
+Zacapa,observations + adjusted reanalysis at night,70.0,0.1,25C/60%RH,5.6301,5.3586,5.9218
+Zacapa,observations + adjusted reanalysis at night,70.0,0.1,30C/65%RH,2.1434,2.04,2.2544
+Zacapa,observations + adjusted reanalysis at night,70.0,0.1,30C/75%RH,0.7885,0.7505,0.8294
+Zacapa,observations + adjusted reanalysis at night,80.0,0.0,25C/60%RH,1.4687,1.4256,1.513
+Zacapa,observations + adjusted reanalysis at night,80.0,0.0,30C/65%RH,0.8625,0.8372,0.8885
+Zacapa,observations + adjusted reanalysis at night,80.0,0.0,30C/75%RH,0.8625,0.8372,0.8885
+Zacapa,observations + adjusted reanalysis at night,80.0,0.02,25C/60%RH,1.5702,1.5399,1.5984
+Zacapa,observations + adjusted reanalysis at night,80.0,0.02,30C/65%RH,0.8344,0.8183,0.8494
+Zacapa,observations + adjusted reanalysis at night,80.0,0.02,30C/75%RH,0.6831,0.6699,0.6954
+Zacapa,observations + adjusted reanalysis at night,80.0,0.04,25C/60%RH,1.9149,1.8717,1.9576
+Zacapa,observations + adjusted reanalysis at night,80.0,0.04,30C/65%RH,0.9207,0.8999,0.9412
+Zacapa,observations + adjusted reanalysis at night,80.0,0.04,30C/75%RH,0.6172,0.6032,0.6309
+Zacapa,observations + adjusted reanalysis at night,80.0,0.06,25C/60%RH,2.5803,2.5016,2.658
+Zacapa,observations + adjusted reanalysis at night,80.0,0.06,30C/65%RH,1.1226,1.0883,1.1564
+Zacapa,observations + adjusted reanalysis at night,80.0,0.06,30C/75%RH,0.6161,0.5973,0.6346
+Zacapa,observations + adjusted reanalysis at night,80.0,0.08,25C/60%RH,3.7262,3.5823,3.8781
+Zacapa,observations + adjusted reanalysis at night,80.0,0.08,30C/65%RH,1.4669,1.4102,1.5266
+Zacapa,observations + adjusted reanalysis at night,80.0,0.08,30C/75%RH,0.6591,0.6336,0.686
+Zacapa,observations + adjusted reanalysis at night,80.0,0.1,25C/60%RH,5.6413,5.359,5.9485
+Zacapa,observations + adjusted reanalysis at night,80.0,0.1,30C/65%RH,2.0094,1.9088,2.1188
+Zacapa,observations + adjusted reanalysis at night,80.0,0.1,30C/75%RH,0.7392,0.7022,0.7795
+Zacapa,observations + adjusted reanalysis at night,83.144,0.0,25C/60%RH,1.498,1.4543,1.5446
+Zacapa,observations + adjusted reanalysis at night,83.144,0.0,30C/65%RH,0.8615,0.8364,0.8883
+Zacapa,observations + adjusted reanalysis at night,83.144,0.0,30C/75%RH,0.8615,0.8364,0.8883
+Zacapa,observations + adjusted reanalysis at night,83.144,0.02,25C/60%RH,1.5914,1.5576,1.6212
+Zacapa,observations + adjusted reanalysis at night,83.144,0.02,30C/65%RH,0.8281,0.8106,0.8436
+Zacapa,observations + adjusted reanalysis at night,83.144,0.02,30C/75%RH,0.678,0.6636,0.6907
+Zacapa,observations + adjusted reanalysis at night,83.144,0.04,25C/60%RH,1.9309,1.8858,1.9707
+Zacapa,observations + adjusted reanalysis at night,83.144,0.04,30C/65%RH,0.9092,0.888,0.9279
+Zacapa,observations + adjusted reanalysis at night,83.144,0.04,30C/75%RH,0.6095,0.5952,0.622
+Zacapa,observations + adjusted reanalysis at night,83.144,0.06,25C/60%RH,2.5927,2.5075,2.6679
+Zacapa,observations + adjusted reanalysis at night,83.144,0.06,30C/65%RH,1.1047,1.0683,1.1367
+Zacapa,observations + adjusted reanalysis at night,83.144,0.06,30C/75%RH,0.6062,0.5863,0.6238
+Zacapa,observations + adjusted reanalysis at night,83.144,0.08,25C/60%RH,3.7354,3.587,3.891
+Zacapa,observations + adjusted reanalysis at night,83.144,0.08,30C/65%RH,1.44,1.3828,1.5
+Zacapa,observations + adjusted reanalysis at night,83.144,0.08,30C/75%RH,0.647,0.6213,0.674
+Zacapa,observations + adjusted reanalysis at night,83.144,0.1,25C/60%RH,5.6461,5.3738,5.9239
+Zacapa,observations + adjusted reanalysis at night,83.144,0.1,30C/65%RH,1.9695,1.8745,2.0664
+Zacapa,observations + adjusted reanalysis at night,83.144,0.1,30C/75%RH,0.7245,0.6896,0.7602
+Zacapa,observations + adjusted reanalysis at night,90.0,0.0,25C/60%RH,1.5659,1.5193,1.6135
+Zacapa,observations + adjusted reanalysis at night,90.0,0.0,30C/65%RH,0.8604,0.8348,0.8866
+Zacapa,observations + adjusted reanalysis at night,90.0,0.0,30C/75%RH,0.8604,0.8348,0.8866
+Zacapa,observations + adjusted reanalysis at night,90.0,0.02,25C/60%RH,1.6405,1.6051,1.6759
+Zacapa,observations + adjusted reanalysis at night,90.0,0.02,30C/65%RH,0.8156,0.798,0.8332
+Zacapa,observations + adjusted reanalysis at night,90.0,0.02,30C/75%RH,0.6678,0.6534,0.6822
+Zacapa,observations + adjusted reanalysis at night,90.0,0.04,25C/60%RH,1.9681,1.9207,2.0091
+Zacapa,observations + adjusted reanalysis at night,90.0,0.04,30C/65%RH,0.8854,0.8641,0.9038
+Zacapa,observations + adjusted reanalysis at night,90.0,0.04,30C/75%RH,0.5935,0.5792,0.6058
+Zacapa,observations + adjusted reanalysis at night,90.0,0.06,25C/60%RH,2.6217,2.5411,2.6993
+Zacapa,observations + adjusted reanalysis at night,90.0,0.06,30C/65%RH,1.0672,1.0344,1.0988
+Zacapa,observations + adjusted reanalysis at night,90.0,0.06,30C/75%RH,0.5857,0.5677,0.603
+Zacapa,observations + adjusted reanalysis at night,90.0,0.08,25C/60%RH,3.7572,3.6135,3.9035
+Zacapa,observations + adjusted reanalysis at night,90.0,0.08,30C/65%RH,1.3838,1.3309,1.4377
+Zacapa,observations + adjusted reanalysis at night,90.0,0.08,30C/75%RH,0.6218,0.598,0.646
+Zacapa,observations + adjusted reanalysis at night,90.0,0.1,25C/60%RH,5.659,5.4093,5.9628
+Zacapa,observations + adjusted reanalysis at night,90.0,0.1,30C/65%RH,1.886,1.8027,1.9872
+Zacapa,observations + adjusted reanalysis at night,90.0,0.1,30C/75%RH,0.6938,0.6632,0.7311
+Zacapa,observations + adjusted reanalysis at night,100.0,0.0,25C/60%RH,1.6758,1.62,1.7346
+Zacapa,observations + adjusted reanalysis at night,100.0,0.0,30C/65%RH,0.8615,0.8328,0.8917
+Zacapa,observations + adjusted reanalysis at night,100.0,0.0,30C/75%RH,0.8615,0.8328,0.8917
+Zacapa,observations + adjusted reanalysis at night,100.0,0.02,25C/60%RH,1.7196,1.6776,1.7608
+Zacapa,observations + adjusted reanalysis at night,100.0,0.02,30C/65%RH,0.7999,0.7804,0.8191
+Zacapa,observations + adjusted reanalysis at night,100.0,0.02,30C/75%RH,0.6549,0.6389,0.6706
+Zacapa,observations + adjusted reanalysis at night,100.0,0.04,25C/60%RH,2.0281,1.9778,2.075
+Zacapa,observations + adjusted reanalysis at night,100.0,0.04,30C/65%RH,0.8536,0.8325,0.8734
+Zacapa,observations + adjusted reanalysis at night,100.0,0.04,30C/75%RH,0.5722,0.558,0.5854
+Zacapa,observations + adjusted reanalysis at night,100.0,0.06,25C/60%RH,2.6689,2.5859,2.7474
+Zacapa,observations + adjusted reanalysis at night,100.0,0.06,30C/65%RH,1.0165,0.9849,1.0463
+Zacapa,observations + adjusted reanalysis at night,100.0,0.06,30C/75%RH,0.5578,0.5405,0.5742
+Zacapa,observations + adjusted reanalysis at night,100.0,0.08,25C/60%RH,3.7939,3.6572,3.9498
+Zacapa,observations + adjusted reanalysis at night,100.0,0.08,30C/65%RH,1.3074,1.2603,1.3611
+Zacapa,observations + adjusted reanalysis at night,100.0,0.08,30C/75%RH,0.5875,0.5663,0.6116
+Zacapa,observations + adjusted reanalysis at night,100.0,0.1,25C/60%RH,5.6835,5.3958,5.943
+Zacapa,observations + adjusted reanalysis at night,100.0,0.1,30C/65%RH,1.7722,1.6825,1.8531
+Zacapa,observations + adjusted reanalysis at night,100.0,0.1,30C/75%RH,0.652,0.619,0.6817
+Zacapa,observations + adjusted reanalysis at night,110.0,0.0,25C/60%RH,1.8001,1.737,1.8723
+Zacapa,observations + adjusted reanalysis at night,110.0,0.0,30C/65%RH,0.8659,0.8355,0.9006
+Zacapa,observations + adjusted reanalysis at night,110.0,0.0,30C/75%RH,0.8659,0.8355,0.9006
+Zacapa,observations + adjusted reanalysis at night,110.0,0.02,25C/60%RH,1.8086,1.7579,1.8607
+Zacapa,observations + adjusted reanalysis at night,110.0,0.02,30C/65%RH,0.7871,0.7651,0.8098
+Zacapa,observations + adjusted reanalysis at night,110.0,0.02,30C/75%RH,0.6445,0.6264,0.663
+Zacapa,observations + adjusted reanalysis at night,110.0,0.04,25C/60%RH,2.0955,2.0405,2.1437
+Zacapa,observations + adjusted reanalysis at night,110.0,0.04,30C/65%RH,0.8252,0.8036,0.8442
+Zacapa,observations + adjusted reanalysis at night,110.0,0.04,30C/75%RH,0.5532,0.5386,0.5659
+Zacapa,observations + adjusted reanalysis at night,110.0,0.06,25C/60%RH,2.7224,2.6436,2.8012
+Zacapa,observations + adjusted reanalysis at night,110.0,0.06,30C/65%RH,0.9701,0.942,0.9982
+Zacapa,observations + adjusted reanalysis at night,110.0,0.06,30C/75%RH,0.5324,0.517,0.5478
+Zacapa,observations + adjusted reanalysis at night,110.0,0.08,25C/60%RH,3.8367,3.706,3.9771
+Zacapa,observations + adjusted reanalysis at night,110.0,0.08,30C/65%RH,1.2371,1.1949,1.2823
+Zacapa,observations + adjusted reanalysis at night,110.0,0.08,30C/75%RH,0.5559,0.5369,0.5762
+Zacapa,observations + adjusted reanalysis at night,110.0,0.1,25C/60%RH,5.7149,5.454,5.9922
+Zacapa,observations + adjusted reanalysis at night,110.0,0.1,30C/65%RH,1.6673,1.5912,1.7482
+Zacapa,observations + adjusted reanalysis at night,110.0,0.1,30C/75%RH,0.6134,0.5854,0.6431
+Zacapa,observations + adjusted reanalysis at night,120.0,0.0,25C/60%RH,1.9409,1.8644,2.0239
+Zacapa,observations + adjusted reanalysis at night,120.0,0.0,30C/65%RH,0.8735,0.8391,0.9108
+Zacapa,observations + adjusted reanalysis at night,120.0,0.0,30C/75%RH,0.8735,0.8391,0.9108
+Zacapa,observations + adjusted reanalysis at night,120.0,0.02,25C/60%RH,1.9087,1.8481,1.9689
+Zacapa,observations + adjusted reanalysis at night,120.0,0.02,30C/65%RH,0.7773,0.7526,0.8018
+Zacapa,observations + adjusted reanalysis at night,120.0,0.02,30C/75%RH,0.6364,0.6162,0.6564
+Zacapa,observations + adjusted reanalysis at night,120.0,0.04,25C/60%RH,2.1712,2.1154,2.2247
+Zacapa,observations + adjusted reanalysis at night,120.0,0.04,30C/65%RH,0.8,0.7794,0.8197
+Zacapa,observations + adjusted reanalysis at night,120.0,0.04,30C/75%RH,0.5363,0.5225,0.5495
+Zacapa,observations + adjusted reanalysis at night,120.0,0.06,25C/60%RH,2.7826,2.6937,2.8557
+Zacapa,observations + adjusted reanalysis at night,120.0,0.06,30C/65%RH,0.9277,0.8981,0.9521
+Zacapa,observations + adjusted reanalysis at night,120.0,0.06,30C/75%RH,0.5091,0.4929,0.5225
+Zacapa,observations + adjusted reanalysis at night,120.0,0.08,25C/60%RH,3.886,3.7445,4.0167
+Zacapa,observations + adjusted reanalysis at night,120.0,0.08,30C/65%RH,1.1723,1.1296,1.2117
+Zacapa,observations + adjusted reanalysis at night,120.0,0.08,30C/75%RH,0.5267,0.5076,0.5445
+Zacapa,observations + adjusted reanalysis at night,120.0,0.1,25C/60%RH,5.7533,5.501,6.0239
+Zacapa,observations + adjusted reanalysis at night,120.0,0.1,30C/65%RH,1.5705,1.5016,1.6443
+Zacapa,observations + adjusted reanalysis at night,120.0,0.1,30C/75%RH,0.5777,0.5524,0.6049
+Zacapa,observations + adjusted reanalysis at night,130.0,0.0,25C/60%RH,2.1004,2.0058,2.2032
+Zacapa,observations + adjusted reanalysis at night,130.0,0.0,30C/65%RH,0.8844,0.8446,0.9277
+Zacapa,observations + adjusted reanalysis at night,130.0,0.0,30C/75%RH,0.8844,0.8446,0.9277
+Zacapa,observations + adjusted reanalysis at night,130.0,0.02,25C/60%RH,2.0216,1.9538,2.0965
+Zacapa,observations + adjusted reanalysis at night,130.0,0.02,30C/65%RH,0.7702,0.7444,0.7988
+Zacapa,observations + adjusted reanalysis at night,130.0,0.02,30C/75%RH,0.6306,0.6095,0.654
+Zacapa,observations + adjusted reanalysis at night,130.0,0.04,25C/60%RH,2.256,2.1859,2.3189
+Zacapa,observations + adjusted reanalysis at night,130.0,0.04,30C/65%RH,0.7778,0.7536,0.7994
+Zacapa,observations + adjusted reanalysis at night,130.0,0.04,30C/75%RH,0.5213,0.5051,0.5359
+Zacapa,observations + adjusted reanalysis at night,130.0,0.06,25C/60%RH,2.8502,2.7671,2.9323
+Zacapa,observations + adjusted reanalysis at night,130.0,0.06,30C/65%RH,0.8891,0.8632,0.9147
+Zacapa,observations + adjusted reanalysis at night,130.0,0.06,30C/75%RH,0.488,0.4737,0.502
+Zacapa,observations + adjusted reanalysis at night,130.0,0.08,25C/60%RH,3.9421,3.8008,4.077
+Zacapa,observations + adjusted reanalysis at night,130.0,0.08,30C/65%RH,1.1127,1.0728,1.1507
+Zacapa,observations + adjusted reanalysis at night,130.0,0.08,30C/75%RH,0.5,0.482,0.5171
+Zacapa,observations + adjusted reanalysis at night,130.0,0.1,25C/60%RH,5.7992,5.56,6.0684
+Zacapa,observations + adjusted reanalysis at night,130.0,0.1,30C/65%RH,1.4811,1.42,1.5498
+Zacapa,observations + adjusted reanalysis at night,130.0,0.1,30C/75%RH,0.5449,0.5224,0.5702
+Zacapa,observations + adjusted reanalysis at night,140.0,0.0,25C/60%RH,2.2815,2.1584,2.4082
+Zacapa,observations + adjusted reanalysis at night,140.0,0.0,30C/65%RH,0.8988,0.8503,0.9488
+Zacapa,observations + adjusted reanalysis at night,140.0,0.0,30C/75%RH,0.8988,0.8503,0.9488
+Zacapa,observations + adjusted reanalysis at night,140.0,0.02,25C/60%RH,2.1487,2.0677,2.2336
+Zacapa,observations + adjusted reanalysis at night,140.0,0.02,30C/65%RH,0.766,0.7371,0.7962
+Zacapa,observations + adjusted reanalysis at night,140.0,0.02,30C/75%RH,0.6271,0.6035,0.6519
+Zacapa,observations + adjusted reanalysis at night,140.0,0.04,25C/60%RH,2.3512,2.271,2.4242
+Zacapa,observations + adjusted reanalysis at night,140.0,0.04,30C/65%RH,0.7584,0.7325,0.782
+Zacapa,observations + adjusted reanalysis at night,140.0,0.04,30C/75%RH,0.5084,0.491,0.5242
+Zacapa,observations + adjusted reanalysis at night,140.0,0.06,25C/60%RH,2.9261,2.8267,3.0081
+Zacapa,observations + adjusted reanalysis at night,140.0,0.06,30C/65%RH,0.854,0.825,0.8779
+Zacapa,observations + adjusted reanalysis at night,140.0,0.06,30C/75%RH,0.4687,0.4528,0.4818
+Zacapa,observations + adjusted reanalysis at night,140.0,0.08,25C/60%RH,4.0055,3.8586,4.1451
+Zacapa,observations + adjusted reanalysis at night,140.0,0.08,30C/65%RH,1.0578,1.019,1.0947
+Zacapa,observations + adjusted reanalysis at night,140.0,0.08,30C/75%RH,0.4753,0.4579,0.4919
+Zacapa,observations + adjusted reanalysis at night,140.0,0.1,25C/60%RH,5.8528,5.5717,6.1114
+Zacapa,observations + adjusted reanalysis at night,140.0,0.1,30C/65%RH,1.3986,1.3314,1.4604
+Zacapa,observations + adjusted reanalysis at night,140.0,0.1,30C/75%RH,0.5145,0.4898,0.5372
+Zacapa,observations + adjusted reanalysis at night,150.0,0.0,25C/60%RH,2.4873,2.356,2.6443
+Zacapa,observations + adjusted reanalysis at night,150.0,0.0,30C/65%RH,0.9168,0.8684,0.9747
+Zacapa,observations + adjusted reanalysis at night,150.0,0.0,30C/75%RH,0.9168,0.8684,0.9747
+Zacapa,observations + adjusted reanalysis at night,150.0,0.02,25C/60%RH,2.2922,2.1976,2.4024
+Zacapa,observations + adjusted reanalysis at night,150.0,0.02,30C/65%RH,0.7645,0.733,0.8013
+Zacapa,observations + adjusted reanalysis at night,150.0,0.02,30C/75%RH,0.626,0.6001,0.656
+Zacapa,observations + adjusted reanalysis at night,150.0,0.04,25C/60%RH,2.4579,2.3756,2.5468
+Zacapa,observations + adjusted reanalysis at night,150.0,0.04,30C/65%RH,0.7418,0.7169,0.7686
+Zacapa,observations + adjusted reanalysis at night,150.0,0.04,30C/75%RH,0.4972,0.4806,0.5152
+Zacapa,observations + adjusted reanalysis at night,150.0,0.06,25C/60%RH,3.0109,2.9006,3.1012
+Zacapa,observations + adjusted reanalysis at night,150.0,0.06,30C/65%RH,0.8222,0.7921,0.8469
+Zacapa,observations + adjusted reanalysis at night,150.0,0.06,30C/75%RH,0.4512,0.4347,0.4648
+Zacapa,observations + adjusted reanalysis at night,150.0,0.08,25C/60%RH,4.0769,3.9377,4.2166
+Zacapa,observations + adjusted reanalysis at night,150.0,0.08,30C/65%RH,1.0074,0.973,1.0419
+Zacapa,observations + adjusted reanalysis at night,150.0,0.08,30C/75%RH,0.4526,0.4372,0.4681
+Zacapa,observations + adjusted reanalysis at night,150.0,0.1,25C/60%RH,5.9145,5.6675,6.1525
+Zacapa,observations + adjusted reanalysis at night,150.0,0.1,30C/65%RH,1.3223,1.2671,1.3755
+Zacapa,observations + adjusted reanalysis at night,150.0,0.1,30C/75%RH,0.4865,0.4661,0.506
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.0,25C/60%RH,1.2583,1.2418,1.2756
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.0,30C/65%RH,0.8441,0.833,0.8558
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.0,30C/75%RH,0.8441,0.833,0.8558
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.02,25C/60%RH,1.6536,1.6197,1.6882
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.02,30C/65%RH,1.0037,0.9832,1.0247
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.02,30C/75%RH,0.8218,0.8049,0.839
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.04,25C/60%RH,2.3519,2.2719,2.4309
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.04,30C/65%RH,1.2918,1.2478,1.3352
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.04,30C/75%RH,0.8659,0.8364,0.895
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.06,25C/60%RH,3.5646,3.4121,3.7205
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.06,30C/65%RH,1.7716,1.6957,1.849
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.06,30C/75%RH,0.9722,0.9306,1.0148
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.08,25C/60%RH,5.674,5.3639,5.996
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.08,30C/65%RH,2.5515,2.4121,2.6963
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.08,30C/75%RH,1.1465,1.0838,1.2115
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.1,25C/60%RH,9.3769,8.8406,9.9545
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.1,30C/65%RH,3.8154,3.5972,4.0504
+Retalhuleu,observations + adjusted reanalysis at night,60.0,0.1,30C/75%RH,1.4036,1.3233,1.4901
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.0,25C/60%RH,1.3163,1.2947,1.3377
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.0,30C/65%RH,0.8262,0.8127,0.8396
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.0,30C/75%RH,0.8262,0.8127,0.8396
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.02,25C/60%RH,1.7111,1.6752,1.745
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.02,30C/65%RH,0.9718,0.9514,0.991
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.02,30C/75%RH,0.7956,0.779,0.8114
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.04,25C/60%RH,2.4122,2.3222,2.5001
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.04,30C/65%RH,1.2396,1.1934,1.2848
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.04,30C/75%RH,0.8309,0.7999,0.8612
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.06,25C/60%RH,3.6314,3.4676,3.8056
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.06,30C/65%RH,1.6886,1.6124,1.7696
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.06,30C/75%RH,0.9267,0.8849,0.9712
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.08,25C/60%RH,5.7519,5.4522,6.0577
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.08,30C/65%RH,2.4201,2.294,2.5487
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.08,30C/75%RH,1.0874,1.0307,1.1452
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.1,25C/60%RH,9.4714,8.8928,10.0603
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.1,30C/65%RH,3.6058,3.3855,3.83
+Retalhuleu,observations + adjusted reanalysis at night,70.0,0.1,30C/75%RH,1.3265,1.2455,1.409
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.0,25C/60%RH,1.3797,1.3543,1.4056
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.0,30C/65%RH,0.8102,0.7953,0.8255
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.0,30C/75%RH,0.8102,0.7953,0.8255
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.02,25C/60%RH,1.7737,1.731,1.8131
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.02,30C/65%RH,0.9425,0.9198,0.9634
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.02,30C/75%RH,0.7716,0.7531,0.7888
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.04,25C/60%RH,2.4776,2.3919,2.565
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.04,30C/65%RH,1.1913,1.1501,1.2333
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.04,30C/75%RH,0.7985,0.7709,0.8267
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.06,25C/60%RH,3.7037,3.5182,3.8693
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.06,30C/65%RH,1.6113,1.5306,1.6834
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.06,30C/75%RH,0.8843,0.84,0.9239
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.08,25C/60%RH,5.8362,5.5234,6.1611
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.08,30C/65%RH,2.2975,2.1743,2.4254
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.08,30C/75%RH,1.0323,0.977,1.0898
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.1,25C/60%RH,9.5739,9.0054,10.2004
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.1,30C/65%RH,3.4102,3.2077,3.6333
+Retalhuleu,observations + adjusted reanalysis at night,80.0,0.1,30C/75%RH,1.2545,1.18,1.3366
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.0,25C/60%RH,1.4008,1.3762,1.4267
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.0,30C/65%RH,0.8056,0.7915,0.8205
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.0,30C/75%RH,0.8056,0.7915,0.8205
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.02,25C/60%RH,1.7945,1.7545,1.8357
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.02,30C/65%RH,0.9338,0.913,0.9552
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.02,30C/75%RH,0.7645,0.7475,0.7821
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.04,25C/60%RH,2.4993,2.4153,2.59
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.04,30C/65%RH,1.1768,1.1373,1.2195
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.04,30C/75%RH,0.7888,0.7623,0.8175
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.06,25C/60%RH,3.7277,3.5541,3.9095
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.06,30C/65%RH,1.5882,1.5142,1.6656
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.06,30C/75%RH,0.8716,0.831,0.9141
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.08,25C/60%RH,5.8641,5.5518,6.2028
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.08,30C/65%RH,2.2607,2.1403,2.3913
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.08,30C/75%RH,1.0158,0.9617,1.0745
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.1,25C/60%RH,9.6079,9.0455,10.2135
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.1,30C/65%RH,3.3515,3.1553,3.5627
+Retalhuleu,observations + adjusted reanalysis at night,83.144,0.1,30C/75%RH,1.2329,1.1608,1.3107
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.0,25C/60%RH,1.449,1.4203,1.4799
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.0,30C/65%RH,0.7962,0.7804,0.8131
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.0,30C/75%RH,0.7962,0.7804,0.8131
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.02,25C/60%RH,1.8418,1.7974,1.8873
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.02,30C/65%RH,0.9157,0.8936,0.9383
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.02,30C/75%RH,0.7497,0.7317,0.7682
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.04,25C/60%RH,2.5485,2.4575,2.6417
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.04,30C/65%RH,1.1465,1.1056,1.1884
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.04,30C/75%RH,0.7685,0.7411,0.7966
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.06,25C/60%RH,3.7819,3.6074,3.9622
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.06,30C/65%RH,1.5395,1.4684,1.6128
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.06,30C/75%RH,0.8449,0.8059,0.8851
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.08,25C/60%RH,5.9272,5.5799,6.2544
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.08,30C/65%RH,2.1831,2.0552,2.3036
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.08,30C/75%RH,0.9809,0.9235,1.0351
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.1,25C/60%RH,9.6849,9.081,10.2889
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.1,30C/65%RH,3.2277,3.0264,3.429
+Retalhuleu,observations + adjusted reanalysis at night,90.0,0.1,30C/75%RH,1.1874,1.1134,1.2615
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.0,25C/60%RH,1.5249,1.4921,1.5608
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.0,30C/65%RH,0.7839,0.7671,0.8024
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.0,30C/75%RH,0.7839,0.7671,0.8024
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.02,25C/60%RH,1.9161,1.8686,1.9694
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.02,30C/65%RH,0.8913,0.8692,0.9161
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.02,30C/75%RH,0.7298,0.7117,0.7501
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.04,25C/60%RH,2.6255,2.5249,2.7221
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.04,30C/65%RH,1.1051,1.0628,1.1458
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.04,30C/75%RH,0.7408,0.7124,0.768
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.06,25C/60%RH,3.8665,3.6797,4.0595
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.06,30C/65%RH,1.4726,1.4014,1.5461
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.06,30C/75%RH,0.8082,0.7691,0.8485
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.08,25C/60%RH,6.0254,5.6973,6.3615
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.08,30C/65%RH,2.0764,1.9634,2.1923
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.08,30C/75%RH,0.933,0.8822,0.985
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.1,25C/60%RH,9.8047,9.1975,10.4513
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.1,30C/65%RH,3.0573,2.8679,3.2589
+Retalhuleu,observations + adjusted reanalysis at night,100.0,0.1,30C/75%RH,1.1247,1.0551,1.1989
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.0,25C/60%RH,1.6079,1.5638,1.6514
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.0,30C/65%RH,0.7734,0.7522,0.7943
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.0,30C/75%RH,0.7734,0.7522,0.7943
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.02,25C/60%RH,1.997,1.9427,2.0538
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.02,30C/65%RH,0.8692,0.8455,0.8939
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.02,30C/75%RH,0.7116,0.6923,0.7319
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.04,25C/60%RH,2.709,2.5977,2.8092
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.04,30C/65%RH,1.0668,1.023,1.1063
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.04,30C/75%RH,0.7151,0.6857,0.7416
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.06,25C/60%RH,3.9578,3.7569,4.1515
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.06,30C/65%RH,1.4103,1.3387,1.4793
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.06,30C/75%RH,0.774,0.7347,0.8119
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.08,25C/60%RH,6.1313,5.794,6.5073
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.08,30C/65%RH,1.9769,1.8681,2.0981
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.08,30C/75%RH,0.8883,0.8394,0.9428
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.1,25C/60%RH,9.9339,9.2845,10.5837
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.1,30C/65%RH,2.8982,2.7087,3.0878
+Retalhuleu,observations + adjusted reanalysis at night,110.0,0.1,30C/75%RH,1.0662,0.9965,1.1359
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.0,25C/60%RH,1.6989,1.6512,1.7484
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.0,30C/65%RH,0.7646,0.7431,0.7869
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.0,30C/75%RH,0.7646,0.7431,0.7869
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.02,25C/60%RH,2.0853,2.0262,2.1452
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.02,30C/65%RH,0.8492,0.8251,0.8736
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.02,30C/75%RH,0.6952,0.6755,0.7152
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.04,25C/60%RH,2.7996,2.6893,2.9242
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.04,30C/65%RH,1.0316,0.9909,1.0775
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.04,30C/75%RH,0.6915,0.6642,0.7222
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.06,25C/60%RH,4.0566,3.8516,4.2463
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.06,30C/65%RH,1.3525,1.2841,1.4157
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.06,30C/75%RH,0.7422,0.7048,0.777
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.08,25C/60%RH,6.2454,5.8621,6.6401
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.08,30C/65%RH,1.8841,1.7685,2.0031
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.08,30C/75%RH,0.8466,0.7946,0.9001
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.1,25C/60%RH,10.0729,9.4593,10.81
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.1,30C/65%RH,2.7496,2.5821,2.9508
+Retalhuleu,observations + adjusted reanalysis at night,120.0,0.1,30C/75%RH,1.0115,0.9499,1.0855
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.0,25C/60%RH,1.7985,1.7438,1.8535
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.0,30C/65%RH,0.7573,0.7343,0.7805
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.0,30C/75%RH,0.7573,0.7343,0.7805
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.02,25C/60%RH,2.1815,2.1135,2.2498
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.02,30C/65%RH,0.8312,0.8052,0.8572
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.02,30C/75%RH,0.6805,0.6593,0.7018
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.04,25C/60%RH,2.898,2.7866,3.018
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.04,30C/65%RH,0.9991,0.9607,1.0405
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.04,30C/75%RH,0.6697,0.644,0.6974
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.06,25C/60%RH,4.1633,3.9536,4.3756
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.06,30C/65%RH,1.2987,1.2333,1.3649
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.06,30C/75%RH,0.7127,0.6769,0.7491
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.08,25C/60%RH,6.3683,5.9893,6.7353
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.08,30C/65%RH,1.7975,1.6905,1.9011
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.08,30C/75%RH,0.8077,0.7596,0.8542
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.1,25C/60%RH,10.2224,9.553,10.9197
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.1,30C/65%RH,2.6108,2.4398,2.7889
+Retalhuleu,observations + adjusted reanalysis at night,130.0,0.1,30C/75%RH,0.9604,0.8976,1.026
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.0,25C/60%RH,1.9078,1.8459,1.9724
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.0,30C/65%RH,0.7516,0.7272,0.7771
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.0,30C/75%RH,0.7516,0.7272,0.7771
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.02,25C/60%RH,2.2866,2.2133,2.3635
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.02,30C/65%RH,0.8151,0.789,0.8425
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.02,30C/75%RH,0.6674,0.646,0.6898
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.04,25C/60%RH,3.0048,2.8797,3.1341
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.04,30C/65%RH,0.9692,0.9289,1.0109
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.04,30C/75%RH,0.6497,0.6226,0.6776
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.06,25C/60%RH,4.2786,4.0652,4.5083
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.06,30C/65%RH,1.2488,1.1865,1.3158
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.06,30C/75%RH,0.6853,0.6511,0.7221
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.08,25C/60%RH,6.5006,6.1202,6.8936
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.08,30C/65%RH,1.7167,1.6163,1.8205
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.08,30C/75%RH,0.7714,0.7262,0.818
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.1,25C/60%RH,10.383,9.6517,11.1487
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.1,30C/65%RH,2.4811,2.3063,2.6641
+Retalhuleu,observations + adjusted reanalysis at night,140.0,0.1,30C/75%RH,0.9127,0.8484,0.9801
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.0,25C/60%RH,2.0277,1.9609,2.0977
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.0,30C/65%RH,0.7474,0.7228,0.7732
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.0,30C/75%RH,0.7474,0.7228,0.7732
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.02,25C/60%RH,2.4013,2.3225,2.4827
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.02,30C/65%RH,0.8009,0.7746,0.8281
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.02,30C/75%RH,0.6557,0.6342,0.678
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.04,25C/60%RH,3.1209,2.9863,3.2603
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.04,30C/65%RH,0.9419,0.9012,0.9839
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.04,30C/75%RH,0.6313,0.6041,0.6596
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.06,25C/60%RH,4.4033,4.176,4.6469
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.06,30C/65%RH,1.2024,1.1404,1.269
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.06,30C/75%RH,0.6599,0.6258,0.6964
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.08,25C/60%RH,6.643,6.2582,7.0669
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.08,30C/65%RH,1.6414,1.5463,1.7461
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.08,30C/75%RH,0.7375,0.6948,0.7846
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.1,25C/60%RH,10.5554,9.8065,11.2579
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.1,30C/65%RH,2.3599,2.1925,2.517
+Retalhuleu,observations + adjusted reanalysis at night,150.0,0.1,30C/75%RH,0.8682,0.8066,0.9259
+San Jose,observations + adjusted reanalysis at night,60.0,0.0,25C/60%RH,1.3011,1.2907,1.3139
+San Jose,observations + adjusted reanalysis at night,60.0,0.0,30C/65%RH,0.8728,0.8658,0.8814
+San Jose,observations + adjusted reanalysis at night,60.0,0.0,30C/75%RH,0.8728,0.8658,0.8814
+San Jose,observations + adjusted reanalysis at night,60.0,0.02,25C/60%RH,1.8558,1.8241,1.8907
+San Jose,observations + adjusted reanalysis at night,60.0,0.02,30C/65%RH,1.1265,1.1073,1.1477
+San Jose,observations + adjusted reanalysis at night,60.0,0.02,30C/75%RH,0.9223,0.9065,0.9396
+San Jose,observations + adjusted reanalysis at night,60.0,0.04,25C/60%RH,2.8524,2.7837,2.9186
+San Jose,observations + adjusted reanalysis at night,60.0,0.04,30C/65%RH,1.5667,1.529,1.603
+San Jose,observations + adjusted reanalysis at night,60.0,0.04,30C/75%RH,1.0502,1.0249,1.0745
+San Jose,observations + adjusted reanalysis at night,60.0,0.06,25C/60%RH,4.6513,4.5054,4.7963
+San Jose,observations + adjusted reanalysis at night,60.0,0.06,30C/65%RH,2.3116,2.2391,2.3837
+San Jose,observations + adjusted reanalysis at night,60.0,0.06,30C/75%RH,1.2686,1.2288,1.3082
+San Jose,observations + adjusted reanalysis at night,60.0,0.08,25C/60%RH,7.9361,7.6432,8.26
+San Jose,observations + adjusted reanalysis at night,60.0,0.08,30C/65%RH,3.5688,3.437,3.7144
+San Jose,observations + adjusted reanalysis at night,60.0,0.08,30C/75%RH,1.6036,1.5444,1.669
+San Jose,observations + adjusted reanalysis at night,60.0,0.1,25C/60%RH,14.0137,13.3785,14.6967
+San Jose,observations + adjusted reanalysis at night,60.0,0.1,30C/65%RH,5.7021,5.4436,5.98
+San Jose,observations + adjusted reanalysis at night,60.0,0.1,30C/75%RH,2.0977,2.0026,2.1999
+San Jose,observations + adjusted reanalysis at night,70.0,0.0,25C/60%RH,1.3681,1.3551,1.3821
+San Jose,observations + adjusted reanalysis at night,70.0,0.0,30C/65%RH,0.8587,0.8506,0.8675
+San Jose,observations + adjusted reanalysis at night,70.0,0.0,30C/75%RH,0.8587,0.8506,0.8675
+San Jose,observations + adjusted reanalysis at night,70.0,0.02,25C/60%RH,1.932,1.8964,1.9691
+San Jose,observations + adjusted reanalysis at night,70.0,0.02,30C/65%RH,1.0973,1.077,1.1183
+San Jose,observations + adjusted reanalysis at night,70.0,0.02,30C/75%RH,0.8984,0.8818,0.9156
+San Jose,observations + adjusted reanalysis at night,70.0,0.04,25C/60%RH,2.9449,2.8701,3.0341
+San Jose,observations + adjusted reanalysis at night,70.0,0.04,30C/65%RH,1.5134,1.4749,1.5592
+San Jose,observations + adjusted reanalysis at night,70.0,0.04,30C/75%RH,1.0145,0.9887,1.0452
+San Jose,observations + adjusted reanalysis at night,70.0,0.06,25C/60%RH,4.7707,4.6133,4.9249
+San Jose,observations + adjusted reanalysis at night,70.0,0.06,30C/65%RH,2.2183,2.1452,2.2901
+San Jose,observations + adjusted reanalysis at night,70.0,0.06,30C/75%RH,1.2174,1.1773,1.2568
+San Jose,observations + adjusted reanalysis at night,70.0,0.08,25C/60%RH,8.0986,7.7987,8.4064
+San Jose,observations + adjusted reanalysis at night,70.0,0.08,30C/65%RH,3.4074,3.2812,3.5369
+San Jose,observations + adjusted reanalysis at night,70.0,0.08,30C/75%RH,1.531,1.4744,1.5892
+San Jose,observations + adjusted reanalysis at night,70.0,0.1,25C/60%RH,14.2452,13.5249,14.9154
+San Jose,observations + adjusted reanalysis at night,70.0,0.1,30C/65%RH,5.4232,5.149,5.6783
+San Jose,observations + adjusted reanalysis at night,70.0,0.1,30C/75%RH,1.9951,1.8942,2.0889
+San Jose,observations + adjusted reanalysis at night,80.0,0.0,25C/60%RH,1.441,1.4258,1.4556
+San Jose,observations + adjusted reanalysis at night,80.0,0.0,30C/65%RH,0.8463,0.8373,0.8548
+San Jose,observations + adjusted reanalysis at night,80.0,0.0,30C/75%RH,0.8463,0.8373,0.8548
+San Jose,observations + adjusted reanalysis at night,80.0,0.02,25C/60%RH,2.0148,1.9788,2.058
+San Jose,observations + adjusted reanalysis at night,80.0,0.02,30C/65%RH,1.0706,1.0515,1.0936
+San Jose,observations + adjusted reanalysis at night,80.0,0.02,30C/75%RH,0.8765,0.8609,0.8953
+San Jose,observations + adjusted reanalysis at night,80.0,0.04,25C/60%RH,3.045,2.9534,3.136
+San Jose,observations + adjusted reanalysis at night,80.0,0.04,30C/65%RH,1.4641,1.4201,1.5078
+San Jose,observations + adjusted reanalysis at night,80.0,0.04,30C/75%RH,0.9814,0.9519,1.0107
+San Jose,observations + adjusted reanalysis at night,80.0,0.06,25C/60%RH,4.8993,4.7367,5.0657
+San Jose,observations + adjusted reanalysis at night,80.0,0.06,30C/65%RH,2.1315,2.0608,2.2039
+San Jose,observations + adjusted reanalysis at night,80.0,0.06,30C/75%RH,1.1698,1.131,1.2095
+San Jose,observations + adjusted reanalysis at night,80.0,0.08,25C/60%RH,8.2734,7.9221,8.6252
+San Jose,observations + adjusted reanalysis at night,80.0,0.08,30C/65%RH,3.2569,3.1186,3.3954
+San Jose,observations + adjusted reanalysis at night,80.0,0.08,30C/75%RH,1.4634,1.4013,1.5256
+San Jose,observations + adjusted reanalysis at night,80.0,0.1,25C/60%RH,14.4944,13.7722,15.1681
+San Jose,observations + adjusted reanalysis at night,80.0,0.1,30C/65%RH,5.1629,4.9056,5.4028
+San Jose,observations + adjusted reanalysis at night,80.0,0.1,30C/75%RH,1.8993,1.8047,1.9876
+San Jose,observations + adjusted reanalysis at night,83.144,0.0,25C/60%RH,1.4653,1.4506,1.4825
+San Jose,observations + adjusted reanalysis at night,83.144,0.0,30C/65%RH,0.8427,0.8342,0.8526
+San Jose,observations + adjusted reanalysis at night,83.144,0.0,30C/75%RH,0.8427,0.8342,0.8526
+San Jose,observations + adjusted reanalysis at night,83.144,0.02,25C/60%RH,2.0422,2.0002,2.0859
+San Jose,observations + adjusted reanalysis at night,83.144,0.02,30C/65%RH,1.0627,1.0409,1.0855
+San Jose,observations + adjusted reanalysis at night,83.144,0.02,30C/75%RH,0.8701,0.8522,0.8887
+San Jose,observations + adjusted reanalysis at night,83.144,0.04,25C/60%RH,3.0781,2.9882,3.1735
+San Jose,observations + adjusted reanalysis at night,83.144,0.04,30C/65%RH,1.4493,1.407,1.4943
+San Jose,observations + adjusted reanalysis at night,83.144,0.04,30C/75%RH,0.9715,0.9432,1.0017
+San Jose,observations + adjusted reanalysis at night,83.144,0.06,25C/60%RH,4.9417,4.7807,5.1376
+San Jose,observations + adjusted reanalysis at night,83.144,0.06,30C/65%RH,2.1054,2.0369,2.1889
+San Jose,observations + adjusted reanalysis at night,83.144,0.06,30C/75%RH,1.1555,1.1178,1.2013
+San Jose,observations + adjusted reanalysis at night,83.144,0.08,25C/60%RH,8.331,8.0298,8.6779
+San Jose,observations + adjusted reanalysis at night,83.144,0.08,30C/65%RH,3.2117,3.0956,3.3454
+San Jose,observations + adjusted reanalysis at night,83.144,0.08,30C/75%RH,1.4431,1.3909,1.5032
+San Jose,observations + adjusted reanalysis at night,83.144,0.1,25C/60%RH,14.5765,13.873,15.2739
+San Jose,observations + adjusted reanalysis at night,83.144,0.1,30C/65%RH,5.0846,4.8392,5.3279
+San Jose,observations + adjusted reanalysis at night,83.144,0.1,30C/75%RH,1.8705,1.7802,1.96
+San Jose,observations + adjusted reanalysis at night,90.0,0.0,25C/60%RH,1.5206,1.5023,1.5368
+San Jose,observations + adjusted reanalysis at night,90.0,0.0,30C/65%RH,0.8355,0.8254,0.8444
+San Jose,observations + adjusted reanalysis at night,90.0,0.0,30C/75%RH,0.8355,0.8254,0.8444
+San Jose,observations + adjusted reanalysis at night,90.0,0.02,25C/60%RH,2.1046,2.0612,2.1522
+San Jose,observations + adjusted reanalysis at night,90.0,0.02,30C/65%RH,1.0463,1.0248,1.07
+San Jose,observations + adjusted reanalysis at night,90.0,0.02,30C/75%RH,0.8567,0.839,0.8761
+San Jose,observations + adjusted reanalysis at night,90.0,0.04,25C/60%RH,3.1531,3.0647,3.2524
+San Jose,observations + adjusted reanalysis at night,90.0,0.04,30C/65%RH,1.4185,1.3787,1.4632
+San Jose,observations + adjusted reanalysis at night,90.0,0.04,30C/75%RH,0.9508,0.9242,0.9808
+San Jose,observations + adjusted reanalysis at night,90.0,0.06,25C/60%RH,5.0378,4.8571,5.2405
+San Jose,observations + adjusted reanalysis at night,90.0,0.06,30C/65%RH,2.0506,1.9771,2.1332
+San Jose,observations + adjusted reanalysis at night,90.0,0.06,30C/75%RH,1.1254,1.0851,1.1707
+San Jose,observations + adjusted reanalysis at night,90.0,0.08,25C/60%RH,8.4612,8.1077,8.8282
+San Jose,observations + adjusted reanalysis at night,90.0,0.08,30C/65%RH,3.1164,2.9862,3.2516
+San Jose,observations + adjusted reanalysis at night,90.0,0.08,30C/75%RH,1.4003,1.3418,1.461
+San Jose,observations + adjusted reanalysis at night,90.0,0.1,25C/60%RH,14.7621,14.0614,15.4766
+San Jose,observations + adjusted reanalysis at night,90.0,0.1,30C/65%RH,4.9198,4.6862,5.1579
+San Jose,observations + adjusted reanalysis at night,90.0,0.1,30C/75%RH,1.8099,1.724,1.8975
+San Jose,observations + adjusted reanalysis at night,100.0,0.0,25C/60%RH,1.6074,1.5869,1.6279
+San Jose,observations + adjusted reanalysis at night,100.0,0.0,30C/65%RH,0.8263,0.8158,0.8369
+San Jose,observations + adjusted reanalysis at night,100.0,0.0,30C/75%RH,0.8263,0.8158,0.8369
+San Jose,observations + adjusted reanalysis at night,100.0,0.02,25C/60%RH,2.202,2.1541,2.2527
+San Jose,observations + adjusted reanalysis at night,100.0,0.02,30C/65%RH,1.0243,1.0021,1.0479
+San Jose,observations + adjusted reanalysis at night,100.0,0.02,30C/75%RH,0.8387,0.8204,0.858
+San Jose,observations + adjusted reanalysis at night,100.0,0.04,25C/60%RH,3.2699,3.1642,3.379
+San Jose,observations + adjusted reanalysis at night,100.0,0.04,30C/65%RH,1.3763,1.3318,1.4223
+San Jose,observations + adjusted reanalysis at night,100.0,0.04,30C/75%RH,0.9226,0.8928,0.9534
+San Jose,observations + adjusted reanalysis at night,100.0,0.06,25C/60%RH,5.1869,4.9939,5.3908
+San Jose,observations + adjusted reanalysis at night,100.0,0.06,30C/65%RH,1.9754,1.9019,2.0531
+San Jose,observations + adjusted reanalysis at night,100.0,0.06,30C/75%RH,1.0841,1.0438,1.1268
+San Jose,observations + adjusted reanalysis at night,100.0,0.08,25C/60%RH,8.6629,8.2988,9.0568
+San Jose,observations + adjusted reanalysis at night,100.0,0.08,30C/65%RH,2.9853,2.8598,3.1211
+San Jose,observations + adjusted reanalysis at night,100.0,0.08,30C/75%RH,1.3414,1.285,1.4024
+San Jose,observations + adjusted reanalysis at night,100.0,0.1,25C/60%RH,15.0493,14.3268,15.7107
+San Jose,observations + adjusted reanalysis at night,100.0,0.1,30C/65%RH,4.6926,4.4673,4.8989
+San Jose,observations + adjusted reanalysis at night,100.0,0.1,30C/75%RH,1.7263,1.6434,1.8022
+San Jose,observations + adjusted reanalysis at night,110.0,0.0,25C/60%RH,1.702,1.6773,1.7269
+San Jose,observations + adjusted reanalysis at night,110.0,0.0,30C/65%RH,0.8187,0.8068,0.8306
+San Jose,observations + adjusted reanalysis at night,110.0,0.0,30C/75%RH,0.8187,0.8068,0.8306
+San Jose,observations + adjusted reanalysis at night,110.0,0.02,25C/60%RH,2.3079,2.2598,2.3632
+San Jose,observations + adjusted reanalysis at night,110.0,0.02,30C/65%RH,1.0045,0.9835,1.0285
+San Jose,observations + adjusted reanalysis at night,110.0,0.02,30C/75%RH,0.8224,0.8052,0.8421
+San Jose,observations + adjusted reanalysis at night,110.0,0.04,25C/60%RH,3.3962,3.2898,3.5115
+San Jose,observations + adjusted reanalysis at night,110.0,0.04,30C/65%RH,1.3375,1.2956,1.3829
+San Jose,observations + adjusted reanalysis at night,110.0,0.04,30C/75%RH,0.8965,0.8684,0.927
+San Jose,observations + adjusted reanalysis at night,110.0,0.06,25C/60%RH,5.3473,5.1439,5.5805
+San Jose,observations + adjusted reanalysis at night,110.0,0.06,30C/65%RH,1.9055,1.833,1.9886
+San Jose,observations + adjusted reanalysis at night,110.0,0.06,30C/75%RH,1.0457,1.006,1.0913
+San Jose,observations + adjusted reanalysis at night,110.0,0.08,25C/60%RH,8.8794,8.4969,9.3322
+San Jose,observations + adjusted reanalysis at night,110.0,0.08,30C/65%RH,2.863,2.7396,3.009
+San Jose,observations + adjusted reanalysis at night,110.0,0.08,30C/75%RH,1.2864,1.231,1.352
+San Jose,observations + adjusted reanalysis at night,110.0,0.1,25C/60%RH,15.357,14.6192,16.1091
+San Jose,observations + adjusted reanalysis at night,110.0,0.1,30C/65%RH,4.4803,4.2651,4.6998
+San Jose,observations + adjusted reanalysis at night,110.0,0.1,30C/75%RH,1.6482,1.569,1.7289
+San Jose,observations + adjusted reanalysis at night,120.0,0.0,25C/60%RH,1.8054,1.7776,1.8335
+San Jose,observations + adjusted reanalysis at night,120.0,0.0,30C/65%RH,0.8125,0.8,0.8252
+San Jose,observations + adjusted reanalysis at night,120.0,0.0,30C/75%RH,0.8125,0.8,0.8252
+San Jose,observations + adjusted reanalysis at night,120.0,0.02,25C/60%RH,2.4228,2.3685,2.48
+San Jose,observations + adjusted reanalysis at night,120.0,0.02,30C/65%RH,0.9866,0.9645,1.0099
+San Jose,observations + adjusted reanalysis at night,120.0,0.02,30C/75%RH,0.8078,0.7897,0.8268
+San Jose,observations + adjusted reanalysis at night,120.0,0.04,25C/60%RH,3.5327,3.419,3.6651
+San Jose,observations + adjusted reanalysis at night,120.0,0.04,30C/65%RH,1.3017,1.2598,1.3505
+San Jose,observations + adjusted reanalysis at night,120.0,0.04,30C/75%RH,0.8725,0.8445,0.9053
+San Jose,observations + adjusted reanalysis at night,120.0,0.06,25C/60%RH,5.52,5.299,5.7442
+San Jose,observations + adjusted reanalysis at night,120.0,0.06,30C/65%RH,1.8404,1.7667,1.9151
+San Jose,observations + adjusted reanalysis at night,120.0,0.06,30C/75%RH,1.01,0.9696,1.051
+San Jose,observations + adjusted reanalysis at night,120.0,0.08,25C/60%RH,9.1115,8.7188,9.5343
+San Jose,observations + adjusted reanalysis at night,120.0,0.08,30C/65%RH,2.7487,2.6302,2.8762
+San Jose,observations + adjusted reanalysis at night,120.0,0.08,30C/75%RH,1.2351,1.1818,1.2924
+San Jose,observations + adjusted reanalysis at night,120.0,0.1,25C/60%RH,15.6862,14.9163,16.4816
+San Jose,observations + adjusted reanalysis at night,120.0,0.1,30C/65%RH,4.2818,4.0717,4.4989
+San Jose,observations + adjusted reanalysis at night,120.0,0.1,30C/75%RH,1.5752,1.4979,1.6551
+San Jose,observations + adjusted reanalysis at night,130.0,0.0,25C/60%RH,1.9182,1.8867,1.9501
+San Jose,observations + adjusted reanalysis at night,130.0,0.0,30C/65%RH,0.8077,0.7945,0.8211
+San Jose,observations + adjusted reanalysis at night,130.0,0.0,30C/75%RH,0.8077,0.7945,0.8211
+San Jose,observations + adjusted reanalysis at night,130.0,0.02,25C/60%RH,2.5478,2.4884,2.608
+San Jose,observations + adjusted reanalysis at night,130.0,0.02,30C/65%RH,0.9707,0.9481,0.9936
+San Jose,observations + adjusted reanalysis at night,130.0,0.02,30C/75%RH,0.7948,0.7762,0.8135
+San Jose,observations + adjusted reanalysis at night,130.0,0.04,25C/60%RH,3.6802,3.561,3.8219
+San Jose,observations + adjusted reanalysis at night,130.0,0.04,30C/65%RH,1.2688,1.2276,1.3176
+San Jose,observations + adjusted reanalysis at night,130.0,0.04,30C/75%RH,0.8505,0.8229,0.8832
+San Jose,observations + adjusted reanalysis at night,130.0,0.06,25C/60%RH,5.7059,5.4649,5.9952
+San Jose,observations + adjusted reanalysis at night,130.0,0.06,30C/65%RH,1.7799,1.7047,1.8702
+San Jose,observations + adjusted reanalysis at night,130.0,0.06,30C/75%RH,0.9768,0.9356,1.0264
+San Jose,observations + adjusted reanalysis at night,130.0,0.08,25C/60%RH,9.3603,8.9539,9.8565
+San Jose,observations + adjusted reanalysis at night,130.0,0.08,30C/65%RH,2.642,2.5273,2.782
+San Jose,observations + adjusted reanalysis at night,130.0,0.08,30C/75%RH,1.1871,1.1356,1.2501
+San Jose,observations + adjusted reanalysis at night,130.0,0.1,25C/60%RH,16.0382,15.2334,16.9392
+San Jose,observations + adjusted reanalysis at night,130.0,0.1,30C/65%RH,4.0961,3.8905,4.3262
+San Jose,observations + adjusted reanalysis at night,130.0,0.1,30C/75%RH,1.5069,1.4312,1.5915
+San Jose,observations + adjusted reanalysis at night,140.0,0.0,25C/60%RH,2.0415,2.0026,2.0781
+San Jose,observations + adjusted reanalysis at night,140.0,0.0,30C/65%RH,0.8043,0.789,0.8187
+San Jose,observations + adjusted reanalysis at night,140.0,0.0,30C/75%RH,0.8043,0.789,0.8187
+San Jose,observations + adjusted reanalysis at night,140.0,0.02,25C/60%RH,2.6836,2.618,2.7543
+San Jose,observations + adjusted reanalysis at night,140.0,0.02,30C/65%RH,0.9567,0.9333,0.9818
+San Jose,observations + adjusted reanalysis at night,140.0,0.02,30C/75%RH,0.7832,0.7641,0.8039
+San Jose,observations + adjusted reanalysis at night,140.0,0.04,25C/60%RH,3.8399,3.7105,3.9909
+San Jose,observations + adjusted reanalysis at night,140.0,0.04,30C/65%RH,1.2386,1.1968,1.2873
+San Jose,observations + adjusted reanalysis at night,140.0,0.04,30C/75%RH,0.8302,0.8023,0.8629
+San Jose,observations + adjusted reanalysis at night,140.0,0.06,25C/60%RH,5.906,5.6574,6.1946
+San Jose,observations + adjusted reanalysis at night,140.0,0.06,30C/65%RH,1.7237,1.6512,1.808
+San Jose,observations + adjusted reanalysis at night,140.0,0.06,30C/75%RH,0.946,0.9062,0.9922
+San Jose,observations + adjusted reanalysis at night,140.0,0.08,25C/60%RH,9.627,9.1503,10.1474
+San Jose,observations + adjusted reanalysis at night,140.0,0.08,30C/65%RH,2.5424,2.4165,2.6798
+San Jose,observations + adjusted reanalysis at night,140.0,0.08,30C/75%RH,1.1424,1.0858,1.2041
+San Jose,observations + adjusted reanalysis at night,140.0,0.1,25C/60%RH,16.4143,15.5953,17.3763
+San Jose,observations + adjusted reanalysis at night,140.0,0.1,30C/65%RH,3.9223,3.7266,4.1522
+San Jose,observations + adjusted reanalysis at night,140.0,0.1,30C/75%RH,1.4429,1.3709,1.5275
+San Jose,observations + adjusted reanalysis at night,150.0,0.0,25C/60%RH,2.1763,2.134,2.2188
+San Jose,observations + adjusted reanalysis at night,150.0,0.0,30C/65%RH,0.8022,0.7866,0.8179
+San Jose,observations + adjusted reanalysis at night,150.0,0.0,30C/75%RH,0.8022,0.7866,0.8179
+San Jose,observations + adjusted reanalysis at night,150.0,0.02,25C/60%RH,2.8314,2.7605,2.901
+San Jose,observations + adjusted reanalysis at night,150.0,0.02,30C/65%RH,0.9444,0.9207,0.9676
+San Jose,observations + adjusted reanalysis at night,150.0,0.02,30C/75%RH,0.7732,0.7538,0.7922
+San Jose,observations + adjusted reanalysis at night,150.0,0.04,25C/60%RH,4.0126,3.8603,4.1736
+San Jose,observations + adjusted reanalysis at night,150.0,0.04,30C/65%RH,1.211,1.165,1.2596
+San Jose,observations + adjusted reanalysis at night,150.0,0.04,30C/75%RH,0.8118,0.7809,0.8443
+San Jose,observations + adjusted reanalysis at night,150.0,0.06,25C/60%RH,6.1214,5.8517,6.4068
+San Jose,observations + adjusted reanalysis at night,150.0,0.06,30C/65%RH,1.6716,1.5979,1.7495
+San Jose,observations + adjusted reanalysis at night,150.0,0.06,30C/75%RH,0.9174,0.877,0.9602
+San Jose,observations + adjusted reanalysis at night,150.0,0.08,25C/60%RH,9.9129,9.4174,10.5007
+San Jose,observations + adjusted reanalysis at night,150.0,0.08,30C/65%RH,2.4494,2.3269,2.5946
+San Jose,observations + adjusted reanalysis at night,150.0,0.08,30C/75%RH,1.1006,1.0456,1.1658
+San Jose,observations + adjusted reanalysis at night,150.0,0.1,25C/60%RH,16.8161,15.9009,17.7806
+San Jose,observations + adjusted reanalysis at night,150.0,0.1,30C/65%RH,3.7597,3.555,3.9753
+San Jose,observations + adjusted reanalysis at night,150.0,0.1,30C/75%RH,1.3831,1.3078,1.4624
+Puerto Barrios,station observations,60.0,0.0,25C/60%RH,1.1477,1.1285,1.1689
+Puerto Barrios,station observations,60.0,0.0,30C/65%RH,0.7699,0.7571,0.7841
+Puerto Barrios,station observations,60.0,0.0,30C/75%RH,0.7699,0.7571,0.7841
+Puerto Barrios,station observations,60.0,0.02,25C/60%RH,1.8786,1.8599,1.8958
+Puerto Barrios,station observations,60.0,0.02,30C/65%RH,1.1404,1.129,1.1507
+Puerto Barrios,station observations,60.0,0.02,30C/75%RH,0.9337,0.9243,0.9422
+Puerto Barrios,station observations,60.0,0.04,25C/60%RH,3.2496,3.219,3.2785
+Puerto Barrios,station observations,60.0,0.04,30C/65%RH,1.7849,1.768,1.8007
+Puerto Barrios,station observations,60.0,0.04,30C/75%RH,1.1964,1.1851,1.207
+Puerto Barrios,station observations,60.0,0.06,25C/60%RH,5.8853,5.8162,5.9647
+Puerto Barrios,station observations,60.0,0.06,30C/65%RH,2.9249,2.8905,2.9643
+Puerto Barrios,station observations,60.0,0.06,30C/75%RH,1.6052,1.5864,1.6269
+Puerto Barrios,station observations,60.0,0.08,25C/60%RH,11.0586,10.878,11.2539
+Puerto Barrios,station observations,60.0,0.08,30C/65%RH,4.9729,4.8917,5.0608
+Puerto Barrios,station observations,60.0,0.08,30C/75%RH,2.2345,2.198,2.2739
+Puerto Barrios,station observations,60.0,0.1,25C/60%RH,21.3895,20.9159,21.8218
+Puerto Barrios,station observations,60.0,0.1,30C/65%RH,8.7033,8.5105,8.8791
+Puerto Barrios,station observations,60.0,0.1,30C/75%RH,3.2017,3.1308,3.2665
+Puerto Barrios,station observations,70.0,0.0,25C/60%RH,1.1827,1.1595,1.207
+Puerto Barrios,station observations,70.0,0.0,30C/65%RH,0.7424,0.7278,0.7576
+Puerto Barrios,station observations,70.0,0.0,30C/75%RH,0.7424,0.7278,0.7576
+Puerto Barrios,station observations,70.0,0.02,25C/60%RH,1.9186,1.8942,1.9419
+Puerto Barrios,station observations,70.0,0.02,30C/65%RH,1.0897,1.0758,1.1029
+Puerto Barrios,station observations,70.0,0.02,30C/75%RH,0.8921,0.8808,0.903
+Puerto Barrios,station observations,70.0,0.04,25C/60%RH,3.2928,3.2619,3.3269
+Puerto Barrios,station observations,70.0,0.04,30C/65%RH,1.6922,1.6763,1.7097
+Puerto Barrios,station observations,70.0,0.04,30C/75%RH,1.1343,1.1236,1.146
+Puerto Barrios,station observations,70.0,0.06,25C/60%RH,5.9248,5.8493,6.0034
+Puerto Barrios,station observations,70.0,0.06,30C/65%RH,2.755,2.7199,2.7915
+Puerto Barrios,station observations,70.0,0.06,30C/75%RH,1.512,1.4927,1.532
+Puerto Barrios,station observations,70.0,0.08,25C/60%RH,11.0749,10.9078,11.2656
+Puerto Barrios,station observations,70.0,0.08,30C/65%RH,4.6597,4.5893,4.7399
+Puerto Barrios,station observations,70.0,0.08,30C/75%RH,2.0937,2.0621,2.1298
+Puerto Barrios,station observations,70.0,0.1,25C/60%RH,21.3335,20.9216,21.7714
+Puerto Barrios,station observations,70.0,0.1,30C/65%RH,8.1217,7.9649,8.2884
+Puerto Barrios,station observations,70.0,0.1,30C/75%RH,2.9878,2.9301,3.0491
+Puerto Barrios,station observations,80.0,0.0,25C/60%RH,1.2213,1.1936,1.2514
+Puerto Barrios,station observations,80.0,0.0,30C/65%RH,0.7172,0.701,0.7349
+Puerto Barrios,station observations,80.0,0.0,30C/75%RH,0.7172,0.701,0.7349
+Puerto Barrios,station observations,80.0,0.02,25C/60%RH,1.9632,1.9342,1.9886
+Puerto Barrios,station observations,80.0,0.02,30C/65%RH,1.0432,1.0278,1.0567
+Puerto Barrios,station observations,80.0,0.02,30C/75%RH,0.8541,0.8415,0.8652
+Puerto Barrios,station observations,80.0,0.04,25C/60%RH,3.3423,3.3047,3.378
+Puerto Barrios,station observations,80.0,0.04,30C/65%RH,1.607,1.589,1.6242
+Puerto Barrios,station observations,80.0,0.04,30C/75%RH,1.0772,1.0651,1.0887
+Puerto Barrios,station observations,80.0,0.06,25C/60%RH,5.9734,5.9,6.0504
+Puerto Barrios,station observations,80.0,0.06,30C/65%RH,2.5988,2.5669,2.6323
+Puerto Barrios,station observations,80.0,0.06,30C/75%RH,1.4263,1.4087,1.4446
+Puerto Barrios,station observations,80.0,0.08,25C/60%RH,11.1056,10.9323,11.2938
+Puerto Barrios,station observations,80.0,0.08,30C/65%RH,4.3718,4.3036,4.4459
+Puerto Barrios,station observations,80.0,0.08,30C/75%RH,1.9644,1.9337,1.9977
+Puerto Barrios,station observations,80.0,0.1,25C/60%RH,21.3017,20.8776,21.7171
+Puerto Barrios,station observations,80.0,0.1,30C/65%RH,7.5876,7.4365,7.7356
+Puerto Barrios,station observations,80.0,0.1,30C/75%RH,2.7913,2.7357,2.8458
+Puerto Barrios,station observations,83.144,0.0,25C/60%RH,1.2342,1.2048,1.2649
+Puerto Barrios,station observations,83.144,0.0,30C/65%RH,0.7098,0.6929,0.7275
+Puerto Barrios,station observations,83.144,0.0,30C/75%RH,0.7098,0.6929,0.7275
+Puerto Barrios,station observations,83.144,0.02,25C/60%RH,1.9782,1.9467,2.0087
+Puerto Barrios,station observations,83.144,0.02,30C/65%RH,1.0294,1.013,1.0453
+Puerto Barrios,station observations,83.144,0.02,30C/75%RH,0.8428,0.8294,0.8558
+Puerto Barrios,station observations,83.144,0.04,25C/60%RH,3.3592,3.3175,3.3987
+Puerto Barrios,station observations,83.144,0.04,30C/65%RH,1.5817,1.5621,1.6003
+Puerto Barrios,station observations,83.144,0.04,30C/75%RH,1.0603,1.0471,1.0727
+Puerto Barrios,station observations,83.144,0.06,25C/60%RH,5.9907,5.9207,6.0634
+Puerto Barrios,station observations,83.144,0.06,30C/65%RH,2.5524,2.5226,2.5833
+Puerto Barrios,station observations,83.144,0.06,30C/75%RH,1.4008,1.3844,1.4178
+Puerto Barrios,station observations,83.144,0.08,25C/60%RH,11.1182,10.9541,11.3028
+Puerto Barrios,station observations,83.144,0.08,30C/65%RH,4.2862,4.2229,4.3573
+Puerto Barrios,station observations,83.144,0.08,30C/75%RH,1.9259,1.8975,1.9579
+Puerto Barrios,station observations,83.144,0.1,25C/60%RH,21.2967,20.8555,21.6966
+Puerto Barrios,station observations,83.144,0.1,30C/65%RH,7.4288,7.2749,7.5683
+Puerto Barrios,station observations,83.144,0.1,30C/75%RH,2.7329,2.6763,2.7842
+Puerto Barrios,station observations,90.0,0.0,25C/60%RH,1.2638,1.2324,1.2974
+Puerto Barrios,station observations,90.0,0.0,30C/65%RH,0.6944,0.6772,0.7129
+Puerto Barrios,station observations,90.0,0.0,30C/75%RH,0.6944,0.6772,0.7129
+Puerto Barrios,station observations,90.0,0.02,25C/60%RH,2.0126,1.9783,2.0478
+Puerto Barrios,station observations,90.0,0.02,30C/65%RH,1.0006,0.9836,1.0181
+Puerto Barrios,station observations,90.0,0.02,30C/75%RH,0.8193,0.8053,0.8336
+Puerto Barrios,station observations,90.0,0.04,25C/60%RH,3.3984,3.3537,3.4394
+Puerto Barrios,station observations,90.0,0.04,30C/65%RH,1.5288,1.5087,1.5473
+Puerto Barrios,station observations,90.0,0.04,30C/75%RH,1.0248,1.0113,1.0372
+Puerto Barrios,station observations,90.0,0.06,25C/60%RH,6.0316,5.9556,6.1121
+Puerto Barrios,station observations,90.0,0.06,30C/65%RH,2.4552,2.4242,2.488
+Puerto Barrios,station observations,90.0,0.06,30C/75%RH,1.3474,1.3305,1.3654
+Puerto Barrios,station observations,90.0,0.08,25C/60%RH,11.1509,10.9694,11.3219
+Puerto Barrios,station observations,90.0,0.08,30C/65%RH,4.1071,4.0402,4.1701
+Puerto Barrios,station observations,90.0,0.08,30C/75%RH,1.8454,1.8154,1.8737
+Puerto Barrios,station observations,90.0,0.1,25C/60%RH,21.2941,20.9134,21.7109
+Puerto Barrios,station observations,90.0,0.1,30C/65%RH,7.0967,6.9698,7.2356
+Puerto Barrios,station observations,90.0,0.1,30C/75%RH,2.6107,2.564,2.6618
+Puerto Barrios,station observations,100.0,0.0,25C/60%RH,1.3103,1.2731,1.3475
+Puerto Barrios,station observations,100.0,0.0,30C/65%RH,0.6736,0.6545,0.6927
+Puerto Barrios,station observations,100.0,0.0,30C/75%RH,0.6736,0.6545,0.6927
+Puerto Barrios,station observations,100.0,0.02,25C/60%RH,2.0673,2.0277,2.1103
+Puerto Barrios,station observations,100.0,0.02,30C/65%RH,0.9617,0.9433,0.9817
+Puerto Barrios,station observations,100.0,0.02,30C/75%RH,0.7873,0.7723,0.8037
+Puerto Barrios,station observations,100.0,0.04,25C/60%RH,3.4614,3.4082,3.5089
+Puerto Barrios,station observations,100.0,0.04,30C/65%RH,1.4569,1.4345,1.4769
+Puerto Barrios,station observations,100.0,0.04,30C/75%RH,0.9766,0.9616,0.99
+Puerto Barrios,station observations,100.0,0.06,25C/60%RH,6.0997,6.0212,6.1852
+Puerto Barrios,station observations,100.0,0.06,30C/65%RH,2.3231,2.2932,2.3557
+Puerto Barrios,station observations,100.0,0.06,30C/75%RH,1.2749,1.2585,1.2928
+Puerto Barrios,station observations,100.0,0.08,25C/60%RH,11.2114,11.0387,11.3886
+Puerto Barrios,station observations,100.0,0.08,30C/65%RH,3.8636,3.8041,3.9246
+Puerto Barrios,station observations,100.0,0.08,30C/75%RH,1.736,1.7093,1.7635
+Puerto Barrios,station observations,100.0,0.1,25C/60%RH,21.3111,20.9372,21.7165
+Puerto Barrios,station observations,100.0,0.1,30C/65%RH,6.6451,6.5286,6.7716
+Puerto Barrios,station observations,100.0,0.1,30C/75%RH,2.4446,2.4017,2.4911
+Puerto Barrios,station observations,110.0,0.0,25C/60%RH,1.3613,1.3188,1.408
+Puerto Barrios,station observations,110.0,0.0,30C/65%RH,0.6548,0.6343,0.6773
+Puerto Barrios,station observations,110.0,0.0,30C/75%RH,0.6548,0.6343,0.6773
+Puerto Barrios,station observations,110.0,0.02,25C/60%RH,2.1275,2.0798,2.1779
+Puerto Barrios,station observations,110.0,0.02,30C/65%RH,0.926,0.9052,0.9479
+Puerto Barrios,station observations,110.0,0.02,30C/75%RH,0.7581,0.7411,0.7761
+Puerto Barrios,station observations,110.0,0.04,25C/60%RH,3.5318,3.4696,3.5881
+Puerto Barrios,station observations,110.0,0.04,30C/65%RH,1.3909,1.3664,1.4131
+Puerto Barrios,station observations,110.0,0.04,30C/75%RH,0.9323,0.9159,0.9472
+Puerto Barrios,station observations,110.0,0.06,25C/60%RH,6.1782,6.0898,6.27
+Puerto Barrios,station observations,110.0,0.06,30C/65%RH,2.2015,2.17,2.2342
+Puerto Barrios,station observations,110.0,0.06,30C/75%RH,1.2082,1.1909,1.2262
+Puerto Barrios,station observations,110.0,0.08,25C/60%RH,11.2874,11.1193,11.4641
+Puerto Barrios,station observations,110.0,0.08,30C/65%RH,3.6394,3.5852,3.6963
+Puerto Barrios,station observations,110.0,0.08,30C/75%RH,1.6353,1.6109,1.6609
+Puerto Barrios,station observations,110.0,0.1,25C/60%RH,21.353,20.9914,21.757
+Puerto Barrios,station observations,110.0,0.1,30C/65%RH,6.2296,6.1242,6.3475
+Puerto Barrios,station observations,110.0,0.1,30C/75%RH,2.2918,2.2529,2.3351
+Puerto Barrios,station observations,120.0,0.0,25C/60%RH,1.4172,1.371,1.4759
+Puerto Barrios,station observations,120.0,0.0,30C/65%RH,0.6378,0.617,0.6642
+Puerto Barrios,station observations,120.0,0.0,30C/75%RH,0.6378,0.617,0.6642
+Puerto Barrios,station observations,120.0,0.02,25C/60%RH,2.1938,2.1423,2.2493
+Puerto Barrios,station observations,120.0,0.02,30C/65%RH,0.8933,0.8724,0.916
+Puerto Barrios,station observations,120.0,0.02,30C/75%RH,0.7314,0.7143,0.7499
+Puerto Barrios,station observations,120.0,0.04,25C/60%RH,3.6101,3.5433,3.6703
+Puerto Barrios,station observations,120.0,0.04,30C/65%RH,1.3302,1.3056,1.3524
+Puerto Barrios,station observations,120.0,0.04,30C/75%RH,0.8916,0.8752,0.9065
+Puerto Barrios,station observations,120.0,0.06,25C/60%RH,6.2675,6.1726,6.3704
+Puerto Barrios,station observations,120.0,0.06,30C/65%RH,2.0896,2.0579,2.1239
+Puerto Barrios,station observations,120.0,0.06,30C/75%RH,1.1468,1.1294,1.1656
+Puerto Barrios,station observations,120.0,0.08,25C/60%RH,11.3795,11.2045,11.5634
+Puerto Barrios,station observations,120.0,0.08,30C/65%RH,3.4329,3.3801,3.4884
+Puerto Barrios,station observations,120.0,0.08,30C/75%RH,1.5425,1.5188,1.5674
+Puerto Barrios,station observations,120.0,0.1,25C/60%RH,21.4205,21.0525,21.8003
+Puerto Barrios,station observations,120.0,0.1,30C/65%RH,5.8471,5.7466,5.9507
+Puerto Barrios,station observations,120.0,0.1,30C/75%RH,2.151,2.1141,2.1892
+Puerto Barrios,station observations,130.0,0.0,25C/60%RH,1.4783,1.4193,1.5414
+Puerto Barrios,station observations,130.0,0.0,30C/65%RH,0.6225,0.5976,0.649
+Puerto Barrios,station observations,130.0,0.0,30C/75%RH,0.6225,0.5976,0.649
+Puerto Barrios,station observations,130.0,0.02,25C/60%RH,2.2665,2.2011,2.3309
+Puerto Barrios,station observations,130.0,0.02,30C/65%RH,0.8635,0.8386,0.8881
+Puerto Barrios,station observations,130.0,0.02,30C/75%RH,0.707,0.6866,0.7271
+Puerto Barrios,station observations,130.0,0.04,25C/60%RH,3.6967,3.6219,3.7728
+Puerto Barrios,station observations,130.0,0.04,30C/65%RH,1.2744,1.2487,1.3006
+Puerto Barrios,station observations,130.0,0.04,30C/75%RH,0.8543,0.837,0.8719
+Puerto Barrios,station observations,130.0,0.06,25C/60%RH,6.3684,6.2512,6.4801
+Puerto Barrios,station observations,130.0,0.06,30C/65%RH,1.9866,1.95,2.0214
+Puerto Barrios,station observations,130.0,0.06,30C/75%RH,1.0902,1.0702,1.1094
+Puerto Barrios,station observations,130.0,0.08,25C/60%RH,11.4884,11.3003,11.6906
+Puerto Barrios,station observations,130.0,0.08,30C/65%RH,3.2427,3.1896,3.2997
+Puerto Barrios,station observations,130.0,0.08,30C/75%RH,1.457,1.4332,1.4827
+Puerto Barrios,station observations,130.0,0.1,25C/60%RH,21.514,21.1008,21.9243
+Puerto Barrios,station observations,130.0,0.1,30C/65%RH,5.4946,5.389,5.5994
+Puerto Barrios,station observations,130.0,0.1,30C/75%RH,2.0213,1.9825,2.0599
+Puerto Barrios,station observations,140.0,0.0,25C/60%RH,1.5452,1.481,1.6143
+Puerto Barrios,station observations,140.0,0.0,30C/65%RH,0.6088,0.5835,0.636
+Puerto Barrios,station observations,140.0,0.0,30C/75%RH,0.6088,0.5835,0.636
+Puerto Barrios,station observations,140.0,0.02,25C/60%RH,2.3462,2.2772,2.4213
+Puerto Barrios,station observations,140.0,0.02,30C/65%RH,0.8364,0.8118,0.8632
+Puerto Barrios,station observations,140.0,0.02,30C/75%RH,0.6848,0.6646,0.7067
+Puerto Barrios,station observations,140.0,0.04,25C/60%RH,3.7923,3.7021,3.8808
+Puerto Barrios,station observations,140.0,0.04,30C/65%RH,1.2232,1.1941,1.2518
+Puerto Barrios,station observations,140.0,0.04,30C/75%RH,0.8199,0.8005,0.8391
+Puerto Barrios,station observations,140.0,0.06,25C/60%RH,6.4814,6.3565,6.605
+Puerto Barrios,station observations,140.0,0.06,30C/65%RH,1.8917,1.8552,1.9277
+Puerto Barrios,station observations,140.0,0.06,30C/75%RH,1.0382,1.0182,1.058
+Puerto Barrios,station observations,140.0,0.08,25C/60%RH,11.6148,11.3969,11.8217
+Puerto Barrios,station observations,140.0,0.08,30C/65%RH,3.0673,3.0098,3.122
+Puerto Barrios,station observations,140.0,0.08,30C/75%RH,1.3782,1.3524,1.4028
+Puerto Barrios,station observations,140.0,0.1,25C/60%RH,21.6344,21.255,22.0671
+Puerto Barrios,station observations,140.0,0.1,30C/65%RH,5.1697,5.079,5.2731
+Puerto Barrios,station observations,140.0,0.1,30C/75%RH,1.9018,1.8685,1.9398
+Puerto Barrios,station observations,150.0,0.0,25C/60%RH,1.6182,1.5452,1.6987
+Puerto Barrios,station observations,150.0,0.0,30C/65%RH,0.5965,0.5696,0.6262
+Puerto Barrios,station observations,150.0,0.0,30C/75%RH,0.5965,0.5696,0.6262
+Puerto Barrios,station observations,150.0,0.02,25C/60%RH,2.4334,2.3432,2.5149
+Puerto Barrios,station observations,150.0,0.02,30C/65%RH,0.8116,0.7815,0.8388
+Puerto Barrios,station observations,150.0,0.02,30C/75%RH,0.6645,0.6399,0.6868
+Puerto Barrios,station observations,150.0,0.04,25C/60%RH,3.8974,3.798,3.9926
+Puerto Barrios,station observations,150.0,0.04,30C/65%RH,1.1762,1.1462,1.2049
+Puerto Barrios,station observations,150.0,0.04,30C/75%RH,0.7884,0.7683,0.8077
+Puerto Barrios,station observations,150.0,0.06,25C/60%RH,6.6072,6.4717,6.7405
+Puerto Barrios,station observations,150.0,0.06,30C/65%RH,1.8043,1.7673,1.8407
+Puerto Barrios,station observations,150.0,0.06,30C/75%RH,0.9902,0.9699,1.0102
+Puerto Barrios,station observations,150.0,0.08,25C/60%RH,11.7594,11.547,11.9794
+Puerto Barrios,station observations,150.0,0.08,30C/65%RH,2.9056,2.8531,2.96
+Puerto Barrios,station observations,150.0,0.08,30C/75%RH,1.3056,1.282,1.33
+Puerto Barrios,station observations,150.0,0.1,25C/60%RH,21.7826,21.3886,22.2373
+Puerto Barrios,station observations,150.0,0.1,30C/65%RH,4.87,4.7819,4.9717
+Puerto Barrios,station observations,150.0,0.1,30C/75%RH,1.7916,1.7592,1.829
+Mundo Maya (Flores),station observations,60.0,0.0,25C/60%RH,1.1593,1.1405,1.1797
+Mundo Maya (Flores),station observations,60.0,0.0,30C/65%RH,0.7777,0.7651,0.7914
+Mundo Maya (Flores),station observations,60.0,0.0,30C/75%RH,0.7777,0.7651,0.7914
+Mundo Maya (Flores),station observations,60.0,0.02,25C/60%RH,1.6882,1.6657,1.713
+Mundo Maya (Flores),station observations,60.0,0.02,30C/65%RH,1.0248,1.0111,1.0398
+Mundo Maya (Flores),station observations,60.0,0.02,30C/75%RH,0.839,0.8278,0.8513
+Mundo Maya (Flores),station observations,60.0,0.04,25C/60%RH,2.755,2.7049,2.8063
+Mundo Maya (Flores),station observations,60.0,0.04,30C/65%RH,1.5132,1.4857,1.5414
+Mundo Maya (Flores),station observations,60.0,0.04,30C/75%RH,1.0143,0.9959,1.0332
+Mundo Maya (Flores),station observations,60.0,0.06,25C/60%RH,4.8748,4.7629,4.9887
+Mundo Maya (Flores),station observations,60.0,0.06,30C/65%RH,2.4227,2.3671,2.4793
+Mundo Maya (Flores),station observations,60.0,0.06,30C/75%RH,1.3296,1.2991,1.3607
+Mundo Maya (Flores),station observations,60.0,0.08,25C/60%RH,9.1063,8.8446,9.4007
+Mundo Maya (Flores),station observations,60.0,0.08,30C/65%RH,4.095,3.9773,4.2274
+Mundo Maya (Flores),station observations,60.0,0.08,30C/75%RH,1.84,1.7871,1.8995
+Mundo Maya (Flores),station observations,60.0,0.1,25C/60%RH,17.6357,17.0168,18.248
+Mundo Maya (Flores),station observations,60.0,0.1,30C/65%RH,7.1758,6.924,7.425
+Mundo Maya (Flores),station observations,60.0,0.1,30C/75%RH,2.6398,2.5472,2.7315
+Mundo Maya (Flores),station observations,70.0,0.0,25C/60%RH,1.2054,1.1812,1.2313
+Mundo Maya (Flores),station observations,70.0,0.0,30C/65%RH,0.7566,0.7414,0.7729
+Mundo Maya (Flores),station observations,70.0,0.0,30C/75%RH,0.7566,0.7414,0.7729
+Mundo Maya (Flores),station observations,70.0,0.02,25C/60%RH,1.7195,1.6946,1.7465
+Mundo Maya (Flores),station observations,70.0,0.02,30C/65%RH,0.9766,0.9624,0.9919
+Mundo Maya (Flores),station observations,70.0,0.02,30C/75%RH,0.7996,0.788,0.8121
+Mundo Maya (Flores),station observations,70.0,0.04,25C/60%RH,2.7628,2.7094,2.8204
+Mundo Maya (Flores),station observations,70.0,0.04,30C/65%RH,1.4198,1.3924,1.4494
+Mundo Maya (Flores),station observations,70.0,0.04,30C/75%RH,0.9517,0.9333,0.9715
+Mundo Maya (Flores),station observations,70.0,0.06,25C/60%RH,4.8364,4.7166,4.9574
+Mundo Maya (Flores),station observations,70.0,0.06,30C/65%RH,2.2489,2.1932,2.3051
+Mundo Maya (Flores),station observations,70.0,0.06,30C/75%RH,1.2342,1.2036,1.2651
+Mundo Maya (Flores),station observations,70.0,0.08,25C/60%RH,8.9704,8.6868,9.251
+Mundo Maya (Flores),station observations,70.0,0.08,30C/65%RH,3.7742,3.6549,3.8923
+Mundo Maya (Flores),station observations,70.0,0.08,30C/75%RH,1.6959,1.6422,1.7489
+Mundo Maya (Flores),station observations,70.0,0.1,25C/60%RH,17.2902,16.6584,17.8964
+Mundo Maya (Flores),station observations,70.0,0.1,30C/65%RH,6.5824,6.3419,6.8132
+Mundo Maya (Flores),station observations,70.0,0.1,30C/75%RH,2.4215,2.333,2.5064
+Mundo Maya (Flores),station observations,80.0,0.0,25C/60%RH,1.2587,1.2296,1.2885
+Mundo Maya (Flores),station observations,80.0,0.0,30C/65%RH,0.7392,0.7221,0.7567
+Mundo Maya (Flores),station observations,80.0,0.0,30C/75%RH,0.7392,0.7221,0.7567
+Mundo Maya (Flores),station observations,80.0,0.02,25C/60%RH,1.7578,1.7297,1.7934
+Mundo Maya (Flores),station observations,80.0,0.02,30C/65%RH,0.9341,0.9192,0.953
+Mundo Maya (Flores),station observations,80.0,0.02,30C/75%RH,0.7648,0.7525,0.7803
+Mundo Maya (Flores),station observations,80.0,0.04,25C/60%RH,2.7784,2.7216,2.8378
+Mundo Maya (Flores),station observations,80.0,0.04,30C/65%RH,1.3359,1.3086,1.3644
+Mundo Maya (Flores),station observations,80.0,0.04,30C/75%RH,0.8955,0.8772,0.9146
+Mundo Maya (Flores),station observations,80.0,0.06,25C/60%RH,4.8085,4.6786,4.947
+Mundo Maya (Flores),station observations,80.0,0.06,30C/65%RH,2.092,2.0355,2.1522
+Mundo Maya (Flores),station observations,80.0,0.06,30C/75%RH,1.1481,1.1171,1.1812
+Mundo Maya (Flores),station observations,80.0,0.08,25C/60%RH,8.8512,8.5868,9.1252
+Mundo Maya (Flores),station observations,80.0,0.08,30C/65%RH,3.4844,3.3803,3.5922
+Mundo Maya (Flores),station observations,80.0,0.08,30C/75%RH,1.5656,1.5188,1.6141
+Mundo Maya (Flores),station observations,80.0,0.1,25C/60%RH,16.9743,16.3377,17.6088
+Mundo Maya (Flores),station observations,80.0,0.1,30C/65%RH,6.0462,5.8194,6.2722
+Mundo Maya (Flores),station observations,80.0,0.1,30C/75%RH,2.2243,2.1409,2.3074
+Mundo Maya (Flores),station observations,83.144,0.0,25C/60%RH,1.2771,1.2434,1.3109
+Mundo Maya (Flores),station observations,83.144,0.0,30C/65%RH,0.7345,0.7151,0.7539
+Mundo Maya (Flores),station observations,83.144,0.0,30C/75%RH,0.7345,0.7151,0.7539
+Mundo Maya (Flores),station observations,83.144,0.02,25C/60%RH,1.7714,1.7397,1.8082
+Mundo Maya (Flores),station observations,83.144,0.02,30C/65%RH,0.9218,0.9053,0.941
+Mundo Maya (Flores),station observations,83.144,0.02,30C/75%RH,0.7547,0.7412,0.7704
+Mundo Maya (Flores),station observations,83.144,0.04,25C/60%RH,2.7849,2.729,2.8496
+Mundo Maya (Flores),station observations,83.144,0.04,30C/65%RH,1.3113,1.285,1.3418
+Mundo Maya (Flores),station observations,83.144,0.04,30C/75%RH,0.879,0.8613,0.8994
+Mundo Maya (Flores),station observations,83.144,0.06,25C/60%RH,4.8019,4.6764,4.9306
+Mundo Maya (Flores),station observations,83.144,0.06,30C/65%RH,2.0459,1.9924,2.1007
+Mundo Maya (Flores),station observations,83.144,0.06,30C/75%RH,1.1228,1.0934,1.1529
+Mundo Maya (Flores),station observations,83.144,0.08,25C/60%RH,8.8172,8.5389,9.1105
+Mundo Maya (Flores),station observations,83.144,0.08,30C/65%RH,3.3991,3.2918,3.5122
+Mundo Maya (Flores),station observations,83.144,0.08,30C/75%RH,1.5273,1.4791,1.5781
+Mundo Maya (Flores),station observations,83.144,0.1,25C/60%RH,16.8809,16.238,17.5602
+Mundo Maya (Flores),station observations,83.144,0.1,30C/65%RH,5.8885,5.6642,6.1254
+Mundo Maya (Flores),station observations,83.144,0.1,30C/75%RH,2.1662,2.0837,2.2534
+Mundo Maya (Flores),station observations,90.0,0.0,25C/60%RH,1.32,1.2818,1.3567
+Mundo Maya (Flores),station observations,90.0,0.0,30C/65%RH,0.7253,0.7043,0.7455
+Mundo Maya (Flores),station observations,90.0,0.0,30C/75%RH,0.7253,0.7043,0.7455
+Mundo Maya (Flores),station observations,90.0,0.02,25C/60%RH,1.8036,1.7694,1.8445
+Mundo Maya (Flores),station observations,90.0,0.02,30C/65%RH,0.8967,0.8797,0.917
+Mundo Maya (Flores),station observations,90.0,0.02,30C/75%RH,0.7342,0.7202,0.7508
+Mundo Maya (Flores),station observations,90.0,0.04,25C/60%RH,2.8022,2.7407,2.8678
+Mundo Maya (Flores),station observations,90.0,0.04,30C/65%RH,1.2606,1.233,1.2901
+Mundo Maya (Flores),station observations,90.0,0.04,30C/75%RH,0.845,0.8265,0.8648
+Mundo Maya (Flores),station observations,90.0,0.06,25C/60%RH,4.7914,4.6603,4.9246
+Mundo Maya (Flores),station observations,90.0,0.06,30C/65%RH,1.9503,1.897,2.0046
+Mundo Maya (Flores),station observations,90.0,0.06,30C/75%RH,1.0704,1.0411,1.1001
+Mundo Maya (Flores),station observations,90.0,0.08,25C/60%RH,8.7485,8.4623,9.0507
+Mundo Maya (Flores),station observations,90.0,0.08,30C/65%RH,3.2222,3.1168,3.3335
+Mundo Maya (Flores),station observations,90.0,0.08,30C/75%RH,1.4478,1.4005,1.4979
+Mundo Maya (Flores),station observations,90.0,0.1,25C/60%RH,16.687,16.0136,17.3226
+Mundo Maya (Flores),station observations,90.0,0.1,30C/65%RH,5.5613,5.3368,5.7731
+Mundo Maya (Flores),station observations,90.0,0.1,30C/75%RH,2.0459,1.9633,2.1238
+Mundo Maya (Flores),station observations,100.0,0.0,25C/60%RH,1.3903,1.3457,1.4365
+Mundo Maya (Flores),station observations,100.0,0.0,30C/65%RH,0.7148,0.6918,0.7385
+Mundo Maya (Flores),station observations,100.0,0.0,30C/75%RH,0.7148,0.6918,0.7385
+Mundo Maya (Flores),station observations,100.0,0.02,25C/60%RH,1.8577,1.8179,1.9017
+Mundo Maya (Flores),station observations,100.0,0.02,30C/65%RH,0.8642,0.8457,0.8846
+Mundo Maya (Flores),station observations,100.0,0.02,30C/75%RH,0.7075,0.6924,0.7243
+Mundo Maya (Flores),station observations,100.0,0.04,25C/60%RH,2.8348,2.7701,2.9088
+Mundo Maya (Flores),station observations,100.0,0.04,30C/65%RH,1.1932,1.166,1.2243
+Mundo Maya (Flores),station observations,100.0,0.04,30C/75%RH,0.7998,0.7816,0.8207
+Mundo Maya (Flores),station observations,100.0,0.06,25C/60%RH,4.7852,4.6503,4.9215
+Mundo Maya (Flores),station observations,100.0,0.06,30C/65%RH,1.8225,1.7711,1.8744
+Mundo Maya (Flores),station observations,100.0,0.06,30C/75%RH,1.0002,0.972,1.0287
+Mundo Maya (Flores),station observations,100.0,0.08,25C/60%RH,8.662,8.3693,8.9704
+Mundo Maya (Flores),station observations,100.0,0.08,30C/65%RH,2.985,2.8842,3.0913
+Mundo Maya (Flores),station observations,100.0,0.08,30C/75%RH,1.3413,1.2959,1.389
+Mundo Maya (Flores),station observations,100.0,0.1,25C/60%RH,16.4274,15.7465,17.0645
+Mundo Maya (Flores),station observations,100.0,0.1,30C/65%RH,5.1223,4.91,5.321
+Mundo Maya (Flores),station observations,100.0,0.1,30C/75%RH,1.8844,1.8063,1.9575
+Mundo Maya (Flores),station observations,110.0,0.0,25C/60%RH,1.4706,1.4196,1.5304
+Mundo Maya (Flores),station observations,110.0,0.0,30C/65%RH,0.7074,0.6828,0.7361
+Mundo Maya (Flores),station observations,110.0,0.0,30C/75%RH,0.7074,0.6828,0.7361
+Mundo Maya (Flores),station observations,110.0,0.02,25C/60%RH,1.9209,1.8688,1.9757
+Mundo Maya (Flores),station observations,110.0,0.02,30C/65%RH,0.836,0.8134,0.8599
+Mundo Maya (Flores),station observations,110.0,0.02,30C/75%RH,0.6845,0.6659,0.704
+Mundo Maya (Flores),station observations,110.0,0.04,25C/60%RH,2.8768,2.808,2.9562
+Mundo Maya (Flores),station observations,110.0,0.04,30C/65%RH,1.1329,1.1058,1.1642
+Mundo Maya (Flores),station observations,110.0,0.04,30C/75%RH,0.7594,0.7413,0.7804
+Mundo Maya (Flores),station observations,110.0,0.06,25C/60%RH,4.7904,4.6614,4.93
+Mundo Maya (Flores),station observations,110.0,0.06,30C/65%RH,1.707,1.661,1.7568
+Mundo Maya (Flores),station observations,110.0,0.06,30C/75%RH,0.9368,0.9116,0.9641
+Mundo Maya (Flores),station observations,110.0,0.08,25C/60%RH,8.5919,8.281,8.9094
+Mundo Maya (Flores),station observations,110.0,0.08,30C/65%RH,2.7703,2.67,2.8726
+Mundo Maya (Flores),station observations,110.0,0.08,30C/75%RH,1.2448,1.1997,1.2908
+Mundo Maya (Flores),station observations,110.0,0.1,25C/60%RH,16.1947,15.5292,16.8312
+Mundo Maya (Flores),station observations,110.0,0.1,30C/65%RH,4.7247,4.5306,4.9104
+Mundo Maya (Flores),station observations,110.0,0.1,30C/75%RH,1.7381,1.6667,1.8064
+Mundo Maya (Flores),station observations,120.0,0.0,25C/60%RH,1.5623,1.4972,1.6295
+Mundo Maya (Flores),station observations,120.0,0.0,30C/65%RH,0.7031,0.6738,0.7334
+Mundo Maya (Flores),station observations,120.0,0.0,30C/75%RH,0.7031,0.6738,0.7334
+Mundo Maya (Flores),station observations,120.0,0.02,25C/60%RH,1.9941,1.9379,2.0579
+Mundo Maya (Flores),station observations,120.0,0.02,30C/65%RH,0.812,0.7891,0.838
+Mundo Maya (Flores),station observations,120.0,0.02,30C/75%RH,0.6648,0.6461,0.6861
+Mundo Maya (Flores),station observations,120.0,0.04,25C/60%RH,2.9288,2.8585,3.0243
+Mundo Maya (Flores),station observations,120.0,0.04,30C/65%RH,1.0792,1.0533,1.1143
+Mundo Maya (Flores),station observations,120.0,0.04,30C/75%RH,0.7234,0.706,0.747
+Mundo Maya (Flores),station observations,120.0,0.06,25C/60%RH,4.8074,4.6631,4.9705
+Mundo Maya (Flores),station observations,120.0,0.06,30C/65%RH,1.6028,1.5547,1.6572
+Mundo Maya (Flores),station observations,120.0,0.06,30C/75%RH,0.8796,0.8532,0.9095
+Mundo Maya (Flores),station observations,120.0,0.08,25C/60%RH,8.5381,8.2135,8.8608
+Mundo Maya (Flores),station observations,120.0,0.08,30C/65%RH,2.5757,2.4778,2.6731
+Mundo Maya (Flores),station observations,120.0,0.08,30C/75%RH,1.1574,1.1133,1.2011
+Mundo Maya (Flores),station observations,120.0,0.1,25C/60%RH,15.9886,15.3223,16.6338
+Mundo Maya (Flores),station observations,120.0,0.1,30C/65%RH,4.3644,4.1825,4.5405
+Mundo Maya (Flores),station observations,120.0,0.1,30C/75%RH,1.6056,1.5386,1.6703
+Mundo Maya (Flores),station observations,130.0,0.0,25C/60%RH,1.6668,1.5897,1.7448
+Mundo Maya (Flores),station observations,130.0,0.0,30C/65%RH,0.7018,0.6694,0.7347
+Mundo Maya (Flores),station observations,130.0,0.0,30C/75%RH,0.7018,0.6694,0.7347
+Mundo Maya (Flores),station observations,130.0,0.02,25C/60%RH,2.0785,2.0153,2.1542
+Mundo Maya (Flores),station observations,130.0,0.02,30C/65%RH,0.7919,0.7678,0.8208
+Mundo Maya (Flores),station observations,130.0,0.02,30C/75%RH,0.6484,0.6287,0.672
+Mundo Maya (Flores),station observations,130.0,0.04,25C/60%RH,2.9918,2.9081,3.0877
+Mundo Maya (Flores),station observations,130.0,0.04,30C/65%RH,1.0314,1.0026,1.0645
+Mundo Maya (Flores),station observations,130.0,0.04,30C/75%RH,0.6914,0.672,0.7135
+Mundo Maya (Flores),station observations,130.0,0.06,25C/60%RH,4.8369,4.6869,5.0101
+Mundo Maya (Flores),station observations,130.0,0.06,30C/65%RH,1.5088,1.462,1.5629
+Mundo Maya (Flores),station observations,130.0,0.06,30C/75%RH,0.8281,0.8024,0.8577
+Mundo Maya (Flores),station observations,130.0,0.08,25C/60%RH,8.5011,8.1753,8.8083
+Mundo Maya (Flores),station observations,130.0,0.08,30C/65%RH,2.3995,2.3075,2.4862
+Mundo Maya (Flores),station observations,130.0,0.08,30C/75%RH,1.0782,1.0368,1.1171
+Mundo Maya (Flores),station observations,130.0,0.1,25C/60%RH,15.8087,15.1327,16.5041
+Mundo Maya (Flores),station observations,130.0,0.1,30C/65%RH,4.0375,3.8648,4.2151
+Mundo Maya (Flores),station observations,130.0,0.1,30C/75%RH,1.4853,1.4218,1.5506
+Mundo Maya (Flores),station observations,140.0,0.0,25C/60%RH,1.7857,1.6963,1.8881
+Mundo Maya (Flores),station observations,140.0,0.0,30C/65%RH,0.7035,0.6683,0.7439
+Mundo Maya (Flores),station observations,140.0,0.0,30C/75%RH,0.7035,0.6683,0.7439
+Mundo Maya (Flores),station observations,140.0,0.02,25C/60%RH,2.1754,2.1058,2.2623
+Mundo Maya (Flores),station observations,140.0,0.02,30C/65%RH,0.7755,0.7507,0.8065
+Mundo Maya (Flores),station observations,140.0,0.02,30C/75%RH,0.6349,0.6146,0.6603
+Mundo Maya (Flores),station observations,140.0,0.04,25C/60%RH,3.0667,2.9737,3.1706
+Mundo Maya (Flores),station observations,140.0,0.04,30C/65%RH,0.9892,0.9592,1.0227
+Mundo Maya (Flores),station observations,140.0,0.04,30C/75%RH,0.6631,0.643,0.6855
+Mundo Maya (Flores),station observations,140.0,0.06,25C/60%RH,4.8794,4.7205,5.0695
+Mundo Maya (Flores),station observations,140.0,0.06,30C/65%RH,1.4241,1.3777,1.4796
+Mundo Maya (Flores),station observations,140.0,0.06,30C/75%RH,0.7816,0.7561,0.812
+Mundo Maya (Flores),station observations,140.0,0.08,25C/60%RH,8.4811,8.1968,8.8256
+Mundo Maya (Flores),station observations,140.0,0.08,30C/65%RH,2.2398,2.1647,2.3307
+Mundo Maya (Flores),station observations,140.0,0.08,30C/75%RH,1.0064,0.9726,1.0473
+Mundo Maya (Flores),station observations,140.0,0.1,25C/60%RH,15.6547,14.9573,16.3146
+Mundo Maya (Flores),station observations,140.0,0.1,30C/65%RH,3.7408,3.5741,3.8985
+Mundo Maya (Flores),station observations,140.0,0.1,30C/75%RH,1.3762,1.3149,1.4342
+Mundo Maya (Flores),station observations,150.0,0.0,25C/60%RH,1.9212,1.819,2.0288
+Mundo Maya (Flores),station observations,150.0,0.0,30C/65%RH,0.7082,0.6705,0.7478
+Mundo Maya (Flores),station observations,150.0,0.0,30C/75%RH,0.7082,0.6705,0.7478
+Mundo Maya (Flores),station observations,150.0,0.02,25C/60%RH,2.2861,2.2021,2.3809
+Mundo Maya (Flores),station observations,150.0,0.02,30C/65%RH,0.7625,0.7345,0.7941
+Mundo Maya (Flores),station observations,150.0,0.02,30C/75%RH,0.6243,0.6013,0.6502
+Mundo Maya (Flores),station observations,150.0,0.04,25C/60%RH,3.1546,3.0618,3.274
+Mundo Maya (Flores),station observations,150.0,0.04,30C/65%RH,0.952,0.924,0.9881
+Mundo Maya (Flores),station observations,150.0,0.04,30C/75%RH,0.6382,0.6194,0.6623
+Mundo Maya (Flores),station observations,150.0,0.06,25C/60%RH,4.9359,4.7812,5.1179
+Mundo Maya (Flores),station observations,150.0,0.06,30C/65%RH,1.3479,1.3056,1.3976
+Mundo Maya (Flores),station observations,150.0,0.06,30C/75%RH,0.7397,0.7165,0.767
+Mundo Maya (Flores),station observations,150.0,0.08,25C/60%RH,8.4787,8.1296,8.8284
+Mundo Maya (Flores),station observations,150.0,0.08,30C/65%RH,2.095,2.0087,2.1814
+Mundo Maya (Flores),station observations,150.0,0.08,30C/75%RH,0.9413,0.9026,0.9802
+Mundo Maya (Flores),station observations,150.0,0.1,25C/60%RH,15.5267,14.8185,16.2126
+Mundo Maya (Flores),station observations,150.0,0.1,30C/65%RH,3.4714,3.3131,3.6247
+Mundo Maya (Flores),station observations,150.0,0.1,30C/75%RH,1.277,1.2188,1.3335
