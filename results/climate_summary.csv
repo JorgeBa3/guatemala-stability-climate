@@ -1,10 +1,10 @@
 station,elevation_m,method,mean_T_C,mean_RH_pct,MKT_C
 Guatemala La Aurora,1489,station observations,19.77,76.94,20.45
-Quetzaltenango,2500,observations + adjusted reanalysis at night,14.62,79.57,15.82
+Quetzaltenango,2500,observations + anchored reanalysis at night,14.51,78.71,15.83
 Huehuetenango,1901,station observations,18.06,73.48,19.46
-Coban,1316,observations + adjusted reanalysis at night,18.89,86.56,20.09
-Zacapa,490,observations + adjusted reanalysis at night,27.63,67.53,28.64
-Retalhuleu,239,observations + adjusted reanalysis at night,27.47,74.71,28.03
-San Jose,2,observations + adjusted reanalysis at night,27.9,78.68,28.44
+Coban,1316,observations + anchored reanalysis at night,19.31,84.27,20.4
+Zacapa,490,observations + anchored reanalysis at night,27.71,65.42,28.75
+Retalhuleu,239,observations + anchored reanalysis at night,27.07,75.56,27.78
+San Jose,2,observations + anchored reanalysis at night,27.74,78.82,28.35
 Puerto Barrios,1,station observations,26.29,85.81,26.88
 Mundo Maya (Flores),122,station observations,26.02,81.56,27.19

@@ -22,3 +22,4 @@ __pycache__/
 # the manuscript itself is not distributed here
 paper/*.tex
 paper/paper2_stability.pdf
+paper/paper2_stability_anon.pdf

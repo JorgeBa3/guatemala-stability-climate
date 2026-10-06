@@ -1,8 +1,7 @@
-# Humidity, Not Heat: stability testing conditions against Guatemalan climate records
+# Humidity, Not Heat: medicine stability risk across Guatemalan climates
 
-Code and results for the paper *Humidity, Not Heat: A Kinetic Assessment of
-Stability Testing Conditions Against Eleven Years of Hourly Climate Records in
-Guatemala*.
+Code and results for the paper *Humidity, Not Heat: Medicine Stability Risk
+Across Guatemalan Climates*.
 
 For nine Guatemalan weather stations, the analysis computes how much faster a
 medicine would degrade in the local outdoor climate than at three stability
@@ -18,6 +17,7 @@ Python 3.9 or later.
 pip install -r requirements.txt
 python analysis/download_climate.py    # about 50 MB into data/climate/
 python analysis/climate_kinetics.py    # writes results/*.csv
+python analysis/night_ml_experiment.py # comparison of night reconstruction methods
 python analysis/make_figure.py         # writes paper/fig_af.pdf and .png
 ```
 
@@ -31,11 +31,14 @@ already present are skipped. Every request is logged in
 |---|---|
 | `analysis/download_climate.py` | Downloads hourly station observations and reanalysis data, 2015-2025 |
 | `analysis/climate_kinetics.py` | Computes coverage, climate summary, acceleration factors and the validation of the night-hour procedure |
+| `analysis/night_ml_experiment.py` | Compares night-hour reconstruction methods, including a gradient-boosting model evaluated leave-one-station-out |
 | `analysis/make_figure.py` | Draws Figure 1 |
 | `results/station_coverage.csv` | Observed hours per station |
 | `results/climate_summary.csv` | Mean temperature, mean relative humidity and mean kinetic temperature |
 | `results/acceleration_factors.csv` | Acceleration factor for every station, sensitivity and reference condition, with 95% intervals |
 | `results/hybrid_validation.csv` | Error of the night-hour filling procedure at fully observed stations |
+| `results/night_reconstruction_hourly_error.csv` | Hourly error of each reconstruction method |
+| `results/night_reconstruction_af_error.csv` | Error of each reconstruction method in the acceleration factor |
 | `paper/fig_af.pdf`, `paper/fig_af.png` | Figure 1 |
 
 Raw climate files are not stored here; the download script retrieves them.
@@ -54,8 +57,8 @@ Raw climate files are not stored here; the download script retrieves them.
 
 The records describe outdoor air at airports, not the inside of warehouses,
 pharmacies or vehicles. Five of the nine stations report only during the day;
-their night hours are filled with adjusted reanalysis, with a measured error of
-up to 19.5%. The humidity results apply to a product exposed to ambient air.
+their night hours are reconstructed by anchoring reanalysis data to the evening
+and morning observations, with a measured error of up to 14.4%. The humidity results apply to a product exposed to ambient air.
 See the paper for the full discussion.
 
 ## Contact

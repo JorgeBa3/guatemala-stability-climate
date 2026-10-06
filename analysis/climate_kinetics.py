@@ -89,7 +89,8 @@ def load_power(sid: str) -> pd.DataFrame:
 
 def hybrid(df: pd.DataFrame, obs_mask: pd.Series) -> pd.DataFrame:
     """Observed values where available; elsewhere the reanalysis shifted by the
-    mean observed-minus-reanalysis difference of that calendar month."""
+    mean observed-minus-reanalysis difference of that calendar month. Used
+    only as the fallback for long gaps; see `fill_gaps`."""
     both = df[obs_mask & df["T_pow"].notna()]
     dT = (both["T_obs"] - both["T_pow"]).groupby(both.index.month).mean()
     dRH = (both["RH_obs"] - both["RH_pow"]).groupby(both.index.month).mean()
@@ -99,6 +100,32 @@ def hybrid(df: pd.DataFrame, obs_mask: pd.Series) -> pd.DataFrame:
     T = T.where(~obs_mask, df["T_obs"])
     RH = RH.where(~obs_mask, df["RH_obs"])
     return pd.DataFrame({"T": T, "RH": RH}).dropna()
+
+
+MAX_GAP_HOURS = 13   # longest run of missing hours bridged by interpolation
+
+
+def fill_gaps(df: pd.DataFrame, obs_mask: pd.Series) -> pd.DataFrame:
+    """Observed values where available. In gaps of up to MAX_GAP_HOURS the
+    reanalysis curve is shifted so that it passes through the observations on
+    both sides of the gap: the observed-minus-reanalysis difference is
+    interpolated linearly in time across the gap. Longer gaps fall back to the
+    monthly mean difference (function `hybrid`)."""
+    base = hybrid(df, obs_mask)
+    out = base.copy()
+    gap_id = obs_mask.cumsum()
+    gap_len = (~obs_mask).groupby(gap_id).transform("sum")
+    short = (~obs_mask) & (gap_len <= MAX_GAP_HOURS) & (gap_id > 0) \
+        & (gap_id < gap_id.iloc[-1])
+    for obs_col, pow_col, name in (("T_obs", "T_pow", "T"), ("RH_obs", "RH_pow", "RH")):
+        resid = (df[obs_col] - df[pow_col]).where(obs_mask)
+        resid = resid.interpolate(method="linear", limit_area="inside")
+        value = df[pow_col] + resid
+        ok = short & value.notna()
+        idx = ok[ok].index.intersection(out.index)
+        out.loc[idx, name] = value.loc[idx]
+    out["RH"] = out["RH"].clip(5, 100)
+    return out
 
 
 # ─────────────────────────── calculation ───────────────────────────
@@ -225,10 +252,8 @@ def main():
         usable = {}
         if full_day:
             usable["station observations"] = obs_series
-        if has_obs.sum() > 20000:
-            usable_h = hybrid(df, has_obs)
-            if not full_day:
-                usable["observations + adjusted reanalysis at night"] = usable_h
+        if has_obs.sum() > 20000 and not full_day:
+            usable["observations + anchored reanalysis at night"] = fill_gaps(df, has_obs)
         power_only = pow_.rename(columns={"T_pow": "T", "RH_pow": "RH"}).dropna()
 
         for method, series in usable.items():
@@ -242,16 +267,20 @@ def main():
         # hide the night observations of a full-coverage station and compare.
         if full_day:
             masked = has_obs & pd.Series(pd.Index(hours).isin(DAYTIME_UTC), index=df.index)
-            filled = hybrid(df, masked)
+            filled = fill_gaps(df, masked)
+            monthly = hybrid(df, masked)
             for ea in (83.144, 120):
                 for b in (0.0, 0.04, 0.08):
                     truth = composite(*cell_tables(obs_series, rate_term(obs_series, ea, b)))
                     hyb = composite(*cell_tables(filled, rate_term(filled, ea, b)))
+                    mon = composite(*cell_tables(monthly, rate_term(monthly, ea, b)))
                     raw = composite(*cell_tables(power_only, rate_term(power_only, ea, b)))
                     day = obs_series[pd.Index(obs_series.index.hour).isin(DAYTIME_UTC)]
                     day_only = float(np.mean(rate_term(day, ea, b)))
                     valid.append({"station": st.name, "Ea_kJ_mol": ea, "B_per_pctRH": b,
                                   "AF_observed": truth, "AF_night_filled": hyb,
+                                  "AF_monthly_bias": mon,
+                                  "err_monthly_bias_pct": 100 * (mon / truth - 1),
                                   "AF_reanalysis_only": raw, "AF_daytime_only": day_only,
                                   "err_night_filled_pct": 100 * (hyb / truth - 1),
                                   "err_reanalysis_only_pct": 100 * (raw / truth - 1),
